@@ -1,0 +1,60 @@
+name: daily-shanghai-hongkong-job-intelligence
+
+on:
+  schedule:
+    # 08:00 Asia/Shanghai every day.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sh-hk-jobs
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Collect and score jobs
+        run: python run_daily.py --out-dir reports
+
+      - name: Show direct table in Actions summary
+        run: cat reports/latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload job tables
+        uses: actions/upload-artifact@v4
+        with:
+          name: sh-hk-job-intelligence-${{ github.run_id }}
+          path: |
+            reports/latest.md
+            reports/latest_jobs.csv
+          retention-days: 90
+
+      - name: Persist state and reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json reports
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update Shanghai/Hong Kong job intelligence"
+            git push
+          fi

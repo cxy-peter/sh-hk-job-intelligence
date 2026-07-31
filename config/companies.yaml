@@ -1,0 +1,1894 @@
+- company_id: airwallex
+  name: Airwallex空中云汇
+  english_name: Airwallex
+  aliases:
+  - 空中云汇
+  category: 支付/FinTech
+  subcategory: 跨境支付平台
+  locations:
+  - 上海
+  - 香港
+  ownership: 私企/全球FinTech
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 支付风控
+  - AML/KYC
+  - 产品
+  - 数据分析
+  - 运营策略
+  official_careers: https://careers.airwallex.com/jobs/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 跨境支付；原Excel重点
+- company_id: xtransfer
+  name: XTransfer
+  english_name: XTransfer
+  aliases:
+  - XTransfer跨境金融
+  category: 支付/FinTech
+  subcategory: B2B跨境金融
+  locations:
+  - 上海
+  - 香港
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 风控策略
+  - AML/KYC
+  - 产品
+  - 数据分析
+  official_careers: https://www.xtransfer.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 强推，重点看具体岗位
+- company_id: payermax
+  name: PayerMax
+  english_name: PayerMax
+  aliases:
+  - 派付通
+  category: 支付/FinTech
+  subcategory: 新兴市场支付
+  locations:
+  - 上海
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 支付风控
+  - 合规
+  - 产品
+  - 数据分析
+  official_careers: https://www.payermax.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 强推；已有HR联系渠道
+- company_id: pingpong
+  name: PingPong
+  english_name: PingPong
+  aliases:
+  - PingPong支付
+  category: 支付/FinTech
+  subcategory: 跨境收付
+  locations:
+  - 上海
+  - 杭州
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 风控策略
+  - 合规
+  - 产品
+  official_careers: https://www.pingpongx.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 原Excel：需核验上海岗位
+- company_id: unionpay
+  name: 中国银联
+  english_name: China UnionPay
+  aliases:
+  - 银联
+  - UnionPay
+  category: 金融基础设施
+  subcategory: 银行卡清算组织
+  locations:
+  - 上海
+  ownership: 央企/金融基础设施
+  priority: P0
+  target_directions:
+  - 支付清算
+  - 数字人民币
+  - 风险管理
+  - 产品
+  - 数据分析
+  official_careers: https://career.unionpay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 国聘
+  - 搜索
+  original_note: 核心目标
+- company_id: unionpay_intl
+  name: 银联国际
+  english_name: UnionPay International
+  aliases:
+  - UPI
+  - UnionPay International
+  category: 支付/FinTech
+  subcategory: 全球银行卡网络
+  locations:
+  - 上海
+  - 香港
+  ownership: 银联子公司
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 国际业务
+  - 合规
+  - 风险管理
+  - 产品
+  official_careers: https://career.unionpay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - LinkedIn
+  - 搜索
+  original_note: 核心目标
+- company_id: ccbc
+  name: 城银清算
+  english_name: City Commercial Banks Clearing
+  aliases:
+  - CCBC
+  - 城商行资金清算中心
+  category: 金融基础设施
+  subcategory: 支付清算
+  locations:
+  - 上海
+  ownership: 金融基础设施机构
+  priority: P0
+  target_directions:
+  - 清算结算
+  - 支付系统
+  - 风险管理
+  - 产品
+  - 数据分析
+  official_careers: https://www.ccbc.com.cn/
+  monitoring_channels:
+  - 官网
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 去年秋招时间可作监控基线
+- company_id: cips
+  name: 跨境银行间支付清算
+  english_name: CIPS
+  aliases:
+  - 跨境清算公司
+  - 人民币跨境支付系统
+  category: 金融基础设施
+  subcategory: 跨境人民币清算
+  locations:
+  - 上海
+  ownership: 金融基础设施机构
+  priority: P0
+  target_directions:
+  - 跨境清算
+  - 人民币国际化
+  - 产品
+  - 运营
+  - 风险管理
+  official_careers: https://www.cips.com.cn/
+  monitoring_channels:
+  - 官网
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 高难度但高度匹配
+- company_id: shch
+  name: 上海清算所
+  english_name: Shanghai Clearing House
+  aliases:
+  - 银行间市场清算所
+  category: 金融基础设施
+  subcategory: 中央对手清算
+  locations:
+  - 上海
+  ownership: 金融市场基础设施
+  priority: P0
+  target_directions:
+  - 清算结算
+  - 风险管理
+  - 数据分析
+  - 产品
+  official_careers: https://www.shclearing.com.cn/
+  monitoring_channels:
+  - 官网
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 暑期曾无反馈，持续监控
+- company_id: cfets
+  name: 中国外汇交易中心
+  english_name: China Foreign Exchange Trade System
+  aliases:
+  - 外汇交易中心
+  - 全国银行间同业拆借中心
+  - CFETS
+  category: 金融基础设施
+  subcategory: 银行间市场/外汇
+  locations:
+  - 上海
+  ownership: 央行直属事业单位
+  priority: P0
+  target_directions:
+  - 跨境金融
+  - 金融基础设施
+  - 数据分析
+  - 产品
+  - 风险管理
+  official_careers: https://www.chinamoney.com.cn/
+  monitoring_channels:
+  - 官网
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 人民币国际化相关
+- company_id: lianlian
+  name: 连连数字/连连国际
+  english_name: LianLian DigiTech
+  aliases:
+  - 连连支付
+  - LianLian Global
+  category: 支付/FinTech
+  subcategory: 跨境支付
+  locations:
+  - 杭州
+  - 上海
+  - 香港
+  ownership: 上市FinTech
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 风控策略
+  - AML/KYC
+  - 产品
+  - 数据分析
+  official_careers: https://www.lianlian.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel：重点核验上海岗位
+- company_id: worldfirst
+  name: 万里汇
+  english_name: WorldFirst
+  aliases:
+  - World First
+  category: 支付/FinTech
+  subcategory: 跨境收付
+  locations:
+  - 上海
+  - 杭州
+  - 香港
+  ownership: 蚂蚁国际旗下
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 合规
+  - 风险管理
+  - 产品
+  - 运营策略
+  official_careers: https://www.worldfirst.com.cn/about/careers/
+  monitoring_channels:
+  - 官网
+  - 蚂蚁校招
+  - 公众号
+  - 搜索
+  original_note: 需监控校招批次
+- company_id: ipaylinks
+  name: iPayLinks
+  english_name: iPayLinks
+  aliases:
+  - 艾贝盈
+  category: 支付/FinTech
+  subcategory: 跨境支付
+  locations:
+  - 上海
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 风控策略
+  - 合规
+  - 产品
+  official_careers: https://www.ipaylinks.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 原Excel公司池
+- company_id: photonpay
+  name: PhotonPay光子易
+  english_name: PhotonPay
+  aliases:
+  - 光子易
+  category: 支付/FinTech
+  subcategory: 全球支付基础设施
+  locations:
+  - 上海
+  - 香港
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 支付产品
+  - 合规
+  - 风险管理
+  official_careers: https://www.photonpay.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 公众号
+  - 搜索
+  original_note: 需确认是否有校招
+- company_id: sunrate
+  name: 寻汇SUNRATE
+  english_name: SUNRATE
+  aliases:
+  - 寻汇
+  - Sunrate
+  category: 支付/FinTech
+  subcategory: 全球支付与财资
+  locations:
+  - 上海
+  - 香港
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 财资产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  official_careers: https://www.sunrate.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 公众号
+  - 搜索
+  original_note: 原Excel“寻汇”
+- company_id: antom
+  name: Antom
+  english_name: Antom
+  aliases:
+  - 蚂蚁国际支付
+  category: 支付/FinTech
+  subcategory: 全球商户支付
+  locations:
+  - 上海
+  - 香港
+  ownership: 蚂蚁国际旗下
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  official_careers: https://www.antom.com/careers
+  monitoring_channels:
+  - 官网
+  - 蚂蚁校招
+  - LinkedIn
+  - 搜索
+  original_note: 需确认是否独立校招
+- company_id: useepay
+  name: UseePay
+  english_name: UseePay
+  aliases:
+  - 优时支付
+  category: 支付/FinTech
+  subcategory: 跨境收单
+  locations:
+  - 上海
+  ownership: 私企
+  priority: P0
+  target_directions:
+  - 跨境支付
+  - 风控策略
+  - 合规
+  - 产品
+  official_careers: https://www.useepay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 原Excel公司池
+- company_id: srcb
+  name: 上海农商银行
+  english_name: Shanghai Rural Commercial Bank
+  aliases:
+  - 上海农商行
+  category: 银行/子公司
+  subcategory: 上海本地国资金融
+  locations:
+  - 上海
+  ownership: 上海国资控股银行
+  priority: P0
+  target_directions:
+  - 金融科技
+  - 风险管理
+  - 数据分析
+  - 产品
+  official_careers: https://shrcb.zhiye.com/
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 公众号
+  - 搜索
+  original_note: 优先看金融科技/风控而非常规总行岗
+- company_id: shdata
+  name: 上海数据集团
+  english_name: Shanghai Data Group
+  aliases:
+  - 数据集团
+  category: 上海国企
+  subcategory: 数据要素/城市数字化
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P0
+  target_directions:
+  - 数据产品
+  - 数据治理
+  - 风险管理
+  - AI/Agent
+  - 战略
+  official_careers: https://www.shdata.com/
+  monitoring_channels:
+  - 上海国资委
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 与金融数据基础设施方向相邻
+- company_id: rdtech
+  name: RD Technologies圆币科技
+  english_name: RD Technologies
+  aliases:
+  - 圆币科技
+  - RD Wallet
+  category: 支付/FinTech
+  subcategory: 稳定币/数字支付
+  locations:
+  - 香港
+  ownership: 香港FinTech
+  priority: P0
+  target_directions:
+  - 支付产品
+  - 稳定币
+  - 合规
+  - AML/KYC
+  - 风险管理
+  official_careers: https://www.rd.group/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel：稳定币方向
+- company_id: zabank
+  name: 众安银行
+  english_name: ZA Bank
+  aliases:
+  - ZA Bank
+  category: 数字银行
+  subcategory: 香港虚拟银行
+  locations:
+  - 香港
+  ownership: 香港持牌虚拟银行
+  priority: P0
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - AML/KYC
+  - 数据分析
+  official_careers: https://careers.za.group/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 暑期曾拒，秋招继续监控
+- company_id: welab
+  name: WeLab Bank
+  english_name: WeLab Bank
+  aliases:
+  - 汇立银行
+  category: 数字银行
+  subcategory: 香港虚拟银行
+  locations:
+  - 香港
+  ownership: 香港持牌虚拟银行
+  priority: P0
+  target_directions:
+  - 风控策略
+  - 信用风险
+  - 支付产品
+  - 数据分析
+  official_careers: https://www.welab.bank/en/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel重点
+- company_id: mox
+  name: Mox Bank
+  english_name: Mox Bank
+  aliases:
+  - Mox
+  category: 数字银行
+  subcategory: 香港虚拟银行
+  locations:
+  - 香港
+  ownership: 渣打旗下虚拟银行
+  priority: P0
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - AML/KYC
+  - 数据分析
+  official_careers: https://mox.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 可能偏好香港本地学生
+- company_id: redotpay
+  name: RedotPay
+  english_name: RedotPay
+  aliases:
+  - Redot Pay
+  category: 支付/FinTech
+  subcategory: 加密支付/卡
+  locations:
+  - 香港
+  ownership: 香港FinTech
+  priority: P0
+  target_directions:
+  - 支付产品
+  - 合规
+  - 风控策略
+  - 运营
+  official_careers: https://www.redotpay.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 暑期无反馈，继续监控
+- company_id: hashkey
+  name: HashKey Group
+  english_name: HashKey
+  aliases:
+  - HashKey Exchange
+  category: 数字资产/支付
+  subcategory: 持牌数字资产平台
+  locations:
+  - 香港
+  ownership: 香港持牌数字资产集团
+  priority: P0
+  target_directions:
+  - 合规
+  - AML/KYC
+  - 风控策略
+  - 产品
+  - 数据分析
+  official_careers: https://group.hashkey.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel公司池
+- company_id: osl
+  name: OSL Group
+  english_name: OSL
+  aliases:
+  - OSL Digital Securities
+  category: 数字资产/支付
+  subcategory: 持牌数字资产平台
+  locations:
+  - 香港
+  ownership: 香港上市持牌平台
+  priority: P0
+  target_directions:
+  - 合规
+  - AML/KYC
+  - 风控策略
+  - 产品
+  official_careers: https://osl.com/en/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 暑期仅见LinkedIn
+- company_id: shig
+  name: 上海国际集团
+  english_name: Shanghai International Group
+  aliases:
+  - SIG
+  category: 上海国企
+  subcategory: 国有金融资本运营
+  locations:
+  - 上海
+  - 香港
+  ownership: 上海市属国企
+  priority: P0
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 战略
+  - 数据分析
+  official_careers: https://www.sigchina.com/
+  monitoring_channels:
+  - 上海国资委
+  - 官网
+  - 国聘
+  - 搜索
+  original_note: 上海金融国资核心平台
+- company_id: stripe
+  name: Stripe
+  english_name: Stripe
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 全球支付平台
+  locations:
+  - 上海
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://stripe.com/jobs
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: paypal
+  name: PayPal
+  english_name: PayPal
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 全球支付/钱包
+  locations:
+  - 上海
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://careers.pypl.com/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: adyen
+  name: Adyen
+  english_name: Adyen
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 全球支付/收单
+  locations:
+  - 上海
+  - 香港
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://careers.adyen.com/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: wise
+  name: Wise
+  english_name: Wise
+  aliases:
+  - TransferWise
+  category: 全球支付/FinTech
+  subcategory: 跨境汇款/账户
+  locations:
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.wise.jobs/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: checkout
+  name: Checkout.com
+  english_name: Checkout.com
+  aliases:
+  - Checkout
+  category: 全球支付/FinTech
+  subcategory: 全球收单
+  locations:
+  - 香港
+  - 上海
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.checkout.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: nium
+  name: Nium
+  english_name: Nium
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 全球支付基础设施
+  locations:
+  - 香港
+  - 上海
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.nium.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: payoneer
+  name: 派安盈Payoneer
+  english_name: Payoneer
+  aliases:
+  - 派安盈
+  category: 全球支付/FinTech
+  subcategory: 跨境收付
+  locations:
+  - 上海
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.payoneer.com/careers/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: visa
+  name: Visa
+  english_name: Visa
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 银行卡网络
+  locations:
+  - 上海
+  - 香港
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://corporate.visa.com/en/careers.html
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: mastercard
+  name: Mastercard
+  english_name: Mastercard
+  aliases:
+  - 万事达
+  category: 全球支付/FinTech
+  subcategory: 银行卡网络
+  locations:
+  - 上海
+  - 香港
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://careers.mastercard.com/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: worldpay
+  name: Worldpay
+  english_name: Worldpay
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 全球收单
+  locations:
+  - 香港
+  - 上海
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://jobs.worldpay.com/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: rapyd
+  name: Rapyd
+  english_name: Rapyd
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 嵌入式金融/支付
+  locations:
+  - 香港
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.rapyd.net/company/careers/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: amex
+  name: 美国运通
+  english_name: American Express
+  aliases:
+  - AmEx
+  category: 全球支付/FinTech
+  subcategory: 卡组织/支付
+  locations:
+  - 上海
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.americanexpress.com/en-us/careers/
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: circle
+  name: Circle
+  english_name: Circle
+  aliases:
+  - USDC
+  category: 全球支付/FinTech
+  subcategory: 稳定币支付基础设施
+  locations:
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.circle.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: coinbase
+  name: Coinbase
+  english_name: Coinbase
+  aliases: []
+  category: 全球支付/FinTech
+  subcategory: 数字资产基础设施
+  locations:
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.coinbase.com/careers/positions
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: kraken
+  name: Kraken
+  english_name: Kraken
+  aliases:
+  - karken
+  category: 全球支付/FinTech
+  subcategory: 数字资产基础设施
+  locations:
+  - 香港
+  - 纽约
+  ownership: 全球公司
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - 运营策略
+  official_careers: https://www.kraken.com/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel或同类扩展
+- company_id: lakala
+  name: 拉卡拉
+  english_name: Lakala
+  aliases:
+  - 拉卡拉支付
+  category: 中国支付/FinTech
+  subcategory: 第三方支付
+  locations:
+  - 北京
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.lakala.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: huifu
+  name: 汇付天下
+  english_name: Huifu Payment
+  aliases:
+  - 汇付支付
+  category: 中国支付/FinTech
+  subcategory: 第三方支付/商户服务
+  locations:
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.huifu.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: allinpay
+  name: 通联支付
+  english_name: Allinpay
+  aliases:
+  - 通联
+  category: 中国支付/FinTech
+  subcategory: 第三方支付/清算服务
+  locations:
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.allinpay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: yeepay
+  name: 易宝支付
+  english_name: YeePay
+  aliases:
+  - 易宝
+  category: 中国支付/FinTech
+  subcategory: 第三方支付
+  locations:
+  - 北京
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.yeepay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: fuiou
+  name: 富友支付
+  english_name: Fuiou Pay
+  aliases:
+  - 上海富友
+  category: 中国支付/FinTech
+  subcategory: 第三方支付
+  locations:
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.fuioupay.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: oceanpayment
+  name: Oceanpayment钱海
+  english_name: Oceanpayment
+  aliases:
+  - 钱海
+  category: 中国支付/FinTech
+  subcategory: 跨境支付
+  locations:
+  - 深圳
+  - 香港
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.oceanpayment.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: qbit
+  name: Qbit趣比汇
+  english_name: Qbit
+  aliases:
+  - 趣比汇
+  category: 中国支付/FinTech
+  subcategory: 全球企业金融
+  locations:
+  - 上海
+  - 杭州
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.qbitnetwork.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: dowsure
+  name: Dowsure豆沙包
+  english_name: Dowsure
+  aliases:
+  - 豆沙包
+  category: 中国支付/FinTech
+  subcategory: 跨境电商保险/支付风控
+  locations:
+  - 上海
+  - 深圳
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.dowsure.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: mybank
+  name: 网商银行
+  english_name: MYbank
+  aliases:
+  - 浙江网商银行
+  category: 中国支付/FinTech
+  subcategory: 数字银行
+  locations:
+  - 杭州
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://job.mybank.cn/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: webank
+  name: 微众银行
+  english_name: WeBank
+  aliases:
+  - 深圳前海微众银行
+  category: 中国支付/FinTech
+  subcategory: 数字银行
+  locations:
+  - 深圳
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://career.webank.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: antgroup
+  name: 蚂蚁集团
+  english_name: Ant Group
+  aliases:
+  - 支付宝
+  category: 中国支付/FinTech
+  subcategory: 平台/支付
+  locations:
+  - 上海
+  - 杭州
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://talent.antgroup.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: tenpay
+  name: 财付通/微信支付
+  english_name: Tenpay
+  aliases:
+  - 微信支付
+  category: 中国支付/FinTech
+  subcategory: 平台/支付
+  locations:
+  - 深圳
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://join.qq.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: jdtech
+  name: 京东科技
+  english_name: JD Technology
+  aliases:
+  - 京东支付
+  category: 中国支付/FinTech
+  subcategory: 平台/支付
+  locations:
+  - 北京
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://campus.jd.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: duxiaoman
+  name: 度小满
+  english_name: Du Xiaoman
+  aliases:
+  - 百度金融
+  category: 中国支付/FinTech
+  subcategory: 金融科技
+  locations:
+  - 北京
+  - 上海
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://campus.duxiaoman.com/
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: oneconnect
+  name: 金融壹账通
+  english_name: OneConnect
+  aliases:
+  - 壹账通
+  category: 中国支付/FinTech
+  subcategory: 金融科技
+  locations:
+  - 上海
+  - 深圳
+  ownership: 私企/持牌机构
+  priority: P1
+  target_directions:
+  - 支付产品
+  - 风控策略
+  - 合规
+  - 数据分析
+  - AI/Agent
+  official_careers: https://www.ocft.com/careers
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 同类型扩展
+- company_id: ccdc
+  name: 中央国债登记结算
+  english_name: China Central Depository & Clearing
+  aliases:
+  - 中债登
+  - CCDC
+  category: 金融基础设施/上海国企
+  subcategory: 债券登记托管结算
+  locations:
+  - 上海
+  ownership: 央行系统金融基础设施
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: csdc
+  name: 中国结算
+  english_name: China Securities Depository and Clearing
+  aliases:
+  - 中国证券登记结算
+  - CSDC
+  category: 金融基础设施/上海国企
+  subcategory: 证券登记结算
+  locations:
+  - 上海
+  ownership: 金融市场基础设施
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: sse
+  name: 上海证券交易所
+  english_name: Shanghai Stock Exchange
+  aliases:
+  - 上交所
+  - SSE
+  category: 金融基础设施/上海国企
+  subcategory: 证券交易基础设施
+  locations:
+  - 上海
+  ownership: 金融市场基础设施
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: safe
+  name: 国家外汇管理局
+  english_name: SAFE
+  aliases:
+  - 外管局
+  category: 金融基础设施/上海国企
+  subcategory: 跨境资本与外汇管理
+  locations:
+  - 上海
+  ownership: 国家机关/事业单位
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: shfe
+  name: 上海期货交易所
+  english_name: Shanghai Futures Exchange
+  aliases:
+  - 上期所
+  - SHFE
+  category: 金融基础设施/上海国企
+  subcategory: 衍生品交易基础设施
+  locations:
+  - 上海
+  ownership: 金融市场基础设施
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: ine
+  name: 上海国际能源交易中心
+  english_name: INE
+  aliases:
+  - 能源中心
+  category: 金融基础设施/上海国企
+  subcategory: 国际化期货交易平台
+  locations:
+  - 上海
+  ownership: 上期所子公司
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: suaee
+  name: 上海联合产权交易所
+  english_name: Shanghai United Assets and Equity Exchange
+  aliases:
+  - 上海联交所
+  category: 金融基础设施/上海国企
+  subcategory: 产权与要素交易
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: ssci
+  name: 上海国有资本投资
+  english_name: Shanghai State-owned Capital Investment
+  aliases:
+  - 上海国投
+  category: 金融基础设施/上海国企
+  subcategory: 国有资本投资运营
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: guosheng
+  name: 上海国盛集团
+  english_name: Shanghai Guosheng Group
+  aliases:
+  - 国盛集团
+  category: 金融基础设施/上海国企
+  subcategory: 国有资本运营
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: guomao
+  name: 上海国茂控股
+  english_name: Shanghai Guomao Holdings
+  aliases:
+  - 国茂控股
+  category: 金融基础设施/上海国企
+  subcategory: 大宗商品/金融投资/风控
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: bankofshanghai
+  name: 上海银行
+  english_name: Bank of Shanghai
+  aliases:
+  - BOSC
+  category: 金融基础设施/上海国企
+  subcategory: 本地国资银行/金融科技
+  locations:
+  - 上海
+  ownership: 上海国资控股银行
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: spdbwm
+  name: 浦银理财
+  english_name: SPDB Wealth Management
+  aliases:
+  - 浦银理财有限责任公司
+  category: 金融基础设施/上海国企
+  subcategory: 银行理财子公司
+  locations:
+  - 上海
+  ownership: 国有金融子公司
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: boccfc
+  name: 中银消费金融
+  english_name: BOC Consumer Finance
+  aliases:
+  - 中银消金
+  category: 金融基础设施/上海国企
+  subcategory: 消费金融/信用风险
+  locations:
+  - 上海
+  ownership: 国有金融子公司
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: cibcfc
+  name: 兴业消费金融
+  english_name: Industrial Consumer Finance
+  aliases:
+  - 兴业消金
+  category: 金融基础设施/上海国企
+  subcategory: 消费金融/信用风险
+  locations:
+  - 上海
+  ownership: 银行子公司
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: sjec
+  name: 上海建科咨询集团
+  english_name: Shanghai Jianke
+  aliases:
+  - 上海建科
+  category: 金融基础设施/上海国企
+  subcategory: 咨询/城市建设/数字化
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: shmetro
+  name: 申通地铁集团
+  english_name: Shanghai Shentong Metro
+  aliases:
+  - 上海地铁
+  category: 金融基础设施/上海国企
+  subcategory: 城市基础设施/数字化
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: shchengtou
+  name: 上海城投
+  english_name: Shanghai Chengtou
+  aliases:
+  - 城投集团
+  category: 金融基础设施/上海国企
+  subcategory: 城市基础设施/金融与数据
+  locations:
+  - 上海
+  ownership: 上海市属国企
+  priority: P1
+  target_directions:
+  - 金融基础设施
+  - 风险管理
+  - 数据分析
+  - 产品
+  - 战略
+  official_careers: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  monitoring_channels:
+  - 官网
+  - 上海国资委
+  - 国聘
+  - 公众号
+  - 搜索
+  original_note: 上海国企/基础设施扩展
+- company_id: bitget
+  name: Bitget
+  english_name: Bitget
+  aliases: []
+  category: 数字资产/支付
+  subcategory: 交易与支付基础设施
+  locations:
+  - 香港
+  ownership: 全球数字资产平台
+  priority: P2
+  target_directions:
+  - 合规
+  - 风控策略
+  - 产品
+  - 数据分析
+  official_careers: https://www.bitget.com/about/careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 原Excel：可投
+- company_id: kngroup
+  name: KN Group
+  english_name: KN Group
+  aliases:
+  - KN
+  category: 消费金融/FinTech
+  subcategory: 现金贷/风控
+  locations:
+  - 上海
+  ownership: 私企
+  priority: P2
+  target_directions:
+  - 风控策略
+  - 数据分析
+  - 产品
+  official_careers: ''
+  monitoring_channels:
+  - 招聘平台
+  - 搜索
+  original_note: 原Excel公司池
+- company_id: sfc
+  name: 香港证监会
+  english_name: Securities and Futures Commission
+  aliases:
+  - SFC
+  category: 监管机构
+  subcategory: 金融监管
+  locations:
+  - 香港
+  ownership: 香港法定监管机构
+  priority: P2
+  target_directions:
+  - 监管科技
+  - 风险管理
+  - 数据分析
+  official_careers: https://www.sfc.hk/en/Careers
+  monitoring_channels:
+  - 官网
+  - LinkedIn
+  - 搜索
+  original_note: 高竞争，作为彩票项
+- company_id: pdd
+  name: 拼多多集团
+  english_name: PDD
+  aliases:
+  - Pinduoduo
+  category: 互联网/平台
+  subcategory: 跨境电商/支付相邻
+  locations:
+  - 上海
+  ownership: 上市互联网公司
+  priority: P2
+  target_directions:
+  - 合规运营
+  - 数据分析
+  - 产品
+  - 风控策略
+  - AI/Agent
+  official_careers: https://careers.pddglobalhr.com/campus
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 外围扩展；2027提前批已有相关岗
+- company_id: bytedance
+  name: 字节跳动
+  english_name: ByteDance
+  aliases:
+  - TikTok
+  category: 互联网/平台
+  subcategory: 全球化电商与支付相邻
+  locations:
+  - 上海
+  - 香港
+  ownership: 互联网公司
+  priority: P2
+  target_directions:
+  - 风控策略
+  - 合规
+  - 产品
+  - 数据分析
+  - AI/Agent
+  official_careers: https://jobs.bytedance.com/campus
+  monitoring_channels:
+  - 官网
+  - 公众号
+  - 搜索
+  original_note: 外围扩展，重点看支付/电商风控

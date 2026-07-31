@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+reports/report_*.md
+reports/new_jobs_*.csv

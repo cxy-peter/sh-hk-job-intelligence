@@ -1,0 +1,100 @@
+- name: 公司池官方招聘页轮询
+  type: company_pool_html
+  tier: 1
+  daily_company_ids: [airwallex, xtransfer, payermax, unionpay, unionpay_intl, ccbc, cips, shch, cfets, lianlian, srcb]
+  rotate_priorities: [P0, P1]
+  rotation_buckets: 7
+  max_rotating: 10
+  include: [job, career, 招聘, 校园, 校招, 实习, graduate, analyst, risk, compliance, product, data]
+  exclude: [privacy, cookie, terms, fraud-and-third-party-recruiters]
+
+- name: Airwallex官方职位
+  type: generic_html
+  company_id: airwallex
+  url: https://careers.airwallex.com/jobs/
+  tier: 1
+  include: ["/job/", "analyst", "risk", "compliance", "product", "operations", "graduate"]
+  exclude: ["privacy", "fraud-and-third-party-recruiters"]
+
+- name: 上海国资委国企招聘
+  type: generic_html
+  url: https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html
+  tier: 1
+  allow_unmatched: true
+  default_location: 上海
+  include: ["招聘", "校招", "校园", "实习", "应届", "提前批", "管培"]
+
+- name: 中国银联招聘官网
+  type: generic_html
+  company_id: unionpay
+  url: https://career.unionpay.com/
+  tier: 1
+  include: ["校园", "招聘", "校招", "职位", "graduate", "campus"]
+
+- name: 上海农商银行招聘官网
+  type: generic_html
+  company_id: srcb
+  url: https://shrcb.zhiye.com/
+  tier: 1
+  include: ["招聘", "校园", "实习", "职位", "校招"]
+
+- name: XTransfer招聘官网
+  type: generic_html
+  company_id: xtransfer
+  url: https://www.xtransfer.com/careers
+  tier: 1
+  include: ["job", "career", "招聘", "职位"]
+
+- name: PayerMax招聘官网
+  type: generic_html
+  company_id: payermax
+  url: https://www.payermax.com/careers
+  tier: 1
+  include: ["job", "career", "招聘", "职位"]
+
+- name: SUNRATE招聘官网
+  type: generic_html
+  company_id: sunrate
+  url: https://www.sunrate.com/careers
+  tier: 1
+  include: ["job", "career", "招聘", "职位"]
+
+- name: ZA Bank招聘官网
+  type: generic_html
+  company_id: zabank
+  url: https://careers.za.group/
+  tier: 1
+  include: ["job", "career", "graduate", "intern", "analyst", "risk", "compliance"]
+
+- name: Coinbase官方ATS
+  type: greenhouse
+  company_id: coinbase
+  board: coinbase
+
+- name: 公共Web搜索-官网与提前批
+  type: web_search
+  enabled: true
+  allow_unmatched: true
+  tier: 2
+  max_results: 12
+  queries:
+    - '2027届 校招 提前批 上海 跨境支付 风控 合规 产品 数据分析'
+    - '2027届 秋招 上海 国企 金融科技 风险管理 数据分析'
+    - '2027 graduate Hong Kong fintech payment risk compliance analyst'
+    - 'site:gzw.sh.gov.cn/shgzw_xxgk_cqzp 2027届 招聘 提前批'
+    - 'site:mp.weixin.qq.com 2027届 校招 支付 风控 上海 香港'
+    - 'site:xiaohongshu.com 2027秋招 支付 风控 上海 香港'
+
+- name: 实习僧Skill本地导出
+  type: local_csv
+  enabled: true
+  path: data/external/shixiseng_jobs.csv
+  tier: 3
+  allow_unmatched: true
+  company_field: company
+  title_field: title
+  location_field: city
+  deadline_field: deadline
+  url_field: url
+  description_field: job_description
+  published_field: refresh_time
