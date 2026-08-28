@@ -1,45 +1,58 @@
-# 沪港秋招情报 · 2026-08-27
+# 沪港秋招情报 · 2026-08-28
 
 ## 今日结论
-**发现 1 个高匹配新增岗位/招聘批次。**
+**发现 8 个高匹配新增岗位/招聘批次。**
 
 ## 公司与新增职位
 | 公司 | 新职位/批次 | 地点 | 批次 | 届别 | 方向 | 截止 | 匹配分 | 核验 | 来源 |
 |---|---|---|---|---|---|---|---:|---|---|
-| Coinbase | [Analyst II, Treasury Operations](https://www.coinbase.com/careers/positions/8160489?gh_jid=8160489) | Remote - USA | 待识别 | 待识别 | 合规/AML/运营策略 | 待核验 | 67 | 官方ATS | Coinbase官方ATS |
-| Airwallex空中云汇 | [Counsel, Product Legal (Lending) Legal & Licensing Legal & Licensing • New York Americas , New York New York](https://careers.airwallex.com/job/ec93e728-bf15-4fd6-8a43-a4bf6bf6ed98/counsel-product-legal-lending/) | 纽约 | 待识别 | 待识别 | 其他 | 待核验 | 51 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Airwallex空中云汇 | [Counsel, Product Legal (Strategic Partnerships) Legal & Licensing Legal & Licensing • New York Americas , New York New York](https://careers.airwallex.com/job/ad7aaf45-cf1c-4946-a479-713f38b612a9/counsel-product-legal-strategic-partnerships/) | 纽约 | 待识别 | 待识别 | 其他 | 待核验 | 51 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Coinbase | [Product Manager II, Workspace and Multi-User](https://www.coinbase.com/careers/positions/8148171) | 待识别 | 待识别 | 待识别 | 产品经理 | 待核验 | 45 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Social Support Specialist I](https://www.coinbase.com/careers/positions/8147657?gh_jid=8147657) | Manila, Philippines | 待识别 | 待识别 | 金融科技/AI/Agent | 待核验 | 45 | 官方ATS | Coinbase官方ATS |
-| Airwallex空中云汇 | [Sales Development Representative, SME & Growth Sales Sales • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/48d3ca5d-e2b1-4e2c-abd9-e58e84942e52/sales-development-representative-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Coinbase | [Analyst II, Treasury Operations](https://www.coinbase.com/careers/positions/8160489) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Communications Generalist](https://www.coinbase.com/careers/positions/8160771) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Communications Generalist](https://www.coinbase.com/careers/positions/8160771?gh_jid=8160771) | Remote - USA | 待识别 | 待识别 | 金融科技 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
-| Coinbase | [Compliance, Trade Surveillance Associate](https://www.coinbase.com/careers/positions/8142975) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Compliance, Trade Surveillance Associate](https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
-| Coinbase | [Customer Support Supervisor](https://www.coinbase.com/careers/positions/8120315) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Social Support Specialist I](https://www.coinbase.com/careers/positions/8147657) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Sr. Staff Technical Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144772) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Sr. Staff Technical Risk Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144776) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Data Engineer, Market Data](https://www.coinbase.com/careers/positions/8144836) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Infrastructure Engineer, Trading](https://www.coinbase.com/careers/positions/8144769) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Software Engineer, Backend - Platform (Core AI Automation)](https://www.coinbase.com/careers/positions/8154983) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Software Engineer, Compute Platform (Routing)](https://www.coinbase.com/careers/positions/8160557) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Accounting Manager, Lending & Credit Products](https://www.coinbase.com/careers/positions/7532645) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Associate Manager, Internal Audit](https://www.coinbase.com/careers/positions/8154987) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Regulatory Compliance Manager - Capital Markets](https://www.coinbase.com/careers/positions/8152576) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff IT Technical Program Manager](https://www.coinbase.com/careers/positions/8148396) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Strategic Finance Manager, Platform](https://www.coinbase.com/careers/positions/8148248) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Airwallex空中云汇 | [Director, Strategic Partnerships (Relocation to Singapore) Financial and Strategic Partnerships Financial and Strategic Partnerships • London EMEA , London London](https://careers.airwallex.com/job/01a121bf-11d3-47e2-85be-0744c7c0d952/director-strategic-partnerships-relocation-to-singapore/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Airwallex空中云汇 | [Director, Strategic Partnerships (Relocation to Singapore) Financial and Strategic Partnerships Financial and Strategic Partnerships • Remote Americas , Remote Remote](https://careers.airwallex.com/job/1220e43e-b5f4-4254-81d5-670efd24d0ff/director-strategic-partnerships-relocation-to-singapore/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Coinbase | [Principal Recruiter](https://www.coinbase.com/careers/positions/8050322) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Regulatory Compliance Manager - Capital Markets](https://www.coinbase.com/careers/positions/8152576?gh_jid=8152576) | Remote - Singapore | 待识别 | 待识别 | 合规/AML | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
-| Coinbase | [Senior Accountant, Brokerage and Derivatives](https://www.coinbase.com/careers/positions/8157661) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Data Scientist](https://www.coinbase.com/careers/positions/8147917) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Enterprise Product Manager, FP&A](https://www.coinbase.com/careers/positions/8154856) | 待识别 | 待识别 | 待识别 | 产品经理 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer (Platform - Access & Authorization)](https://www.coinbase.com/careers/positions/8146039) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer, Blockchain Platform Nodes](https://www.coinbase.com/careers/positions/8105437) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Software Engineer, Compute Platform (Routing)](https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
+| 上海猎聘 | [【上海跨境支付平台招聘网_2026年上海跨境支付平台招聘信息】-上海猎聘](https://www.liepin.com/city-sh/zpkjzfptv7a5/) | 上海 | 待识别 | 待识别 | 支付产品 | 待核验 | 76 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 上海猎聘 | [【上海跨境支付招聘网_2026年上海跨境支付招聘信息】-上海猎聘](https://m.liepin.com/city-sh/zpkjzf/) | 上海 | 待识别 | 待识别 | 支付产品 | 待核验 | 76 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027 Full-Time Graduate Analyst Program | [2027 Full-Time Graduate Analyst Program – FinTech Platform](https://bebee.com/hk/jobs/2027-full-time-graduate-analyst-program-fintech-platform-aladdin-data-blackrock-hong-kong--fj-2333077262) | 待识别 | 待识别 | 待识别 | 风控策略/数据分析/金融科技 | 待核验 | 63 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育 | [2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育](https://sh.huatu.com/2026/0817/1276854.html) | 上海 | 秋招 | 2027届 | 其他 | 待核验 | 62 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027 | APEJ | Hong Kong | Risk, Credit R | [2027 / APEJ / Hong Kong / Risk, Credit Risk / Summer Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-credit-risk-summer-analyst/10010735) | 香港 | 暑期实习/留用 | 待识别 | 其他 | 待核验 | 57 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Graduate Programmes - LSEG | [Graduate Programmes - LSEG](https://www.lseg.com/en/careers/graduate-internship-programmes/graduate-programmes) | 香港 | 秋招 | 待识别 | 其他 | 待核验 | 57 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Job offer | [Job offer 2027 APAC Graduate Programme – RISK – Hong Kong - BNP Paribas](https://group.bnpparibas/en/careers/job-offer/2027-apac-graduate-programme-risk-hong-kong) | 香港 | 秋招 | 待识别 | 其他 | 待核验 | 57 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Coinbase | [Screening Analyst II](https://www.coinbase.com/careers/positions/8147669?gh_jid=8147669) | Hyderabad, India | 待识别 | 待识别 | 合规/AML/金融科技 | 待核验 | 55 | 官方ATS | Coinbase官方ATS |
+| 小红书 | [小红书校园招聘](https://job.xiaohongshu.com/campus/position/21750) | 上海 | 待识别 | 待识别 | 其他 | 待核验 | 54 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 小红书 | [小红书校园招聘 - job.xiaohongshu.com](https://job.xiaohongshu.com/campus/position/21311) | 上海 | 待识别 | 待识别 | 其他 | 待核验 | 54 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027 | APEJ | Hong Kong | Compliance | N | [2027 / APEJ / Hong Kong / Compliance / New Analyst - Built In](https://builtin.com/job/2027-apej-hong-kong-compliance-new-analyst/10010728) | 香港 | 待识别 | 待识别 | 其他 | 待核验 | 49 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027 | APEJ | Hong Kong | Risk, Market R | [2027 / APEJ / Hong Kong / Risk, Market Risk / New Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-market-risk-new-analyst/10775759) | 香港 | 待识别 | 待识别 | 其他 | 待核验 | 49 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Hong Kong early career programmes - Standard Chartered | [Hong Kong early career programmes - Standard Chartered](https://www.sc.com/en/global-careers/early-careers/local-programmes-for-students/hong-kong-student-opportunities/) | 香港 | 待识别 | 待识别 | 金融科技 | 待核验 | 49 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Airwallex空中云汇 | [Inbound Sales Representative, AMER Sales Sales • Bangalore APAC , Bangalore Bangalore](https://careers.airwallex.com/job/c6a250f2-919e-42c3-bc2a-889790f7205d/inbound-sales-representative-amer/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Inbound Sales Representative, EMEA Sales Sales • Bangalore APAC , Bangalore Bangalore](https://careers.airwallex.com/job/95e2dd11-a47d-4651-a221-d650bce9694a/inbound-sales-representative-emea/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Page 80](https://careers.airwallex.com/jobs/?e-page-9075d2b=80) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| 2027国企央企最新招聘，附求职指南! - 高顿央国企招聘 | [2027国企央企最新招聘，附求职指南! - 高顿央国企招聘](https://www.gwy.com/gqzp/409992.html) | 待识别 | 提前批 | 2027届 | 其他 | 待核验 | 41 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027届秋招在哪里看招聘信息？主流央国企招录清单 | [2027届秋招在哪里看招聘信息？主流央国企招录清单](https://www.gaodun.com/jr/1782450.html) | 待识别 | 提前批 | 2027届 | 其他 | 待核验 | 41 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027届秋招央国企提前批企业名单与投递入口 | Ai简历姬 | [2027届秋招央国企提前批企业名单与投递入口 / Ai简历姬](https://www.resumemakeroffer.com/page/campus-recruitment-2027-soe) | 待识别 | 提前批 | 2027届 | 其他 | 待核验 | 41 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 央国企 | [央国企2027年秋季校园招聘官网，附报名时间线! - 高顿央国企招聘](https://m.gwy.com/gqzp/411409.html) | 待识别 | 提前批 | 2027届 | 其他 | 待核验 | 41 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 小红书 | [小红书校园招聘](https://job.xiaohongshu.com/campus/position/21552) | 待识别 | 待识别 | 待识别 | 数据分析/AI/Agent | 待核验 | 41 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Airwallex空中云汇 | [Compliance Manager & Deputy MLRO, HK Regulatory & Compliance Regulatory & Compliance • Hong Kong SAR APAC , Hong Kong SAR Hong Kong SAR](https://careers.airwallex.com/job/7a777b36-c3d2-4e42-b71d-8238d47ffc03/compliance-manager-deputy-mlro-hk/) | 香港 | 待识别 | 待识别 | 其他 | 待核验 | 38 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Graduate Programme - Deutsche Bank Careers | [Graduate Programme - Deutsche Bank Careers](https://careers.db.com/students-graduates/graduate-programme/) | 待识别 | 秋招 | 2027届 | 其他 | 待核验 | 37 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 国企央企 | [国企央企2027年招聘网秋招：官方入口与报考时间线](https://www.gaodun.com/jr/1784523.html) | 待识别 | 秋招 | 2027届 | 其他 | 待核验 | 37 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8160067?gh_jid=8160067) | Hyderabad, India | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Payments Risk Analyst II](https://www.coinbase.com/careers/positions/8160090?gh_jid=8160090) | Hyderabad, India | 待识别 | 待识别 | 金融科技 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
+| 2025年崇明区区管企业统一招聘公告发布_国企招聘 | [2025年崇明区区管企业统一招聘公告发布_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20250528/7e4f89891ac74a79bf70d61970494c01.html) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 2027 Finance Internships & New Grad Role | [2027 Finance Internships & New Grad Roles Now Live / Samantha ...](https://www.linkedin.com/posts/samantha-wallenstein-7a00252a2_2027-finance-internships-new-grad-roles-activity-7473752930831990784-Q4QS) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Illegal request, the server has refused | [Illegal request, the server has refused](https://www.degson.com/index.php) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Students & Graduates in APAC - Careers at BlackRock | [Students & Graduates in APAC - Careers at BlackRock](https://careers.blackrock.com/students-and-graduates-apac) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Winco | [Winco](https://www.wincous.com/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| https://mp.weixin.qq.com/s/LHNo9pjGDOHjTHRaeiYiBA?... | [https://mp.weixin.qq.com/s/LHNo9pjGDOHjTHRaeiYiBA?...](https://mp.weixin.qq.com/s/LHNo9pjGDOHjTHRaeiYiBA?visit_source=event_detail_page&event_id=875) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| https://mp.weixin.qq.com/s/POpZngaC9UxySm7kHpRjDg | [https://mp.weixin.qq.com/s/POpZngaC9UxySm7kHpRjDg](https://mp.weixin.qq.com/s/POpZngaC9UxySm7kHpRjDg) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| https://mp.weixin.qq.com/s/rT_alM0DFCzFEjSrLqWifg | [https://mp.weixin.qq.com/s/rT_alM0DFCzFEjSrLqWifg](https://mp.weixin.qq.com/s/rT_alM0DFCzFEjSrLqWifg) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| https://vimeo.com/1159617890/likes | [https://vimeo.com/1159617890/likes](https://vimeo.com/1159617890/likes) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 安杰世泽银行保险资管月刊 | [安杰世泽银行保险资管月刊2025 年4月- Lexology](https://www.lexology.com/library/detail.aspx) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 宝山区 | [宝山区2025年上半年区属国有（集体）企业员工及“管培生”招聘公告_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20250313/d09b9288fcaf46538e17276035f4b9ff.html) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| 校园招聘 | [校园招聘](https://career.huawei.com/cn/campus-recruitment) | 待识别 | 待识别 | 2027届 | 其他 | 待核验 | 29 | 搜索线索，需回官方核验 | 公共Web搜索-官网与提前批 |
+| Airwallex空中云汇 | [Manager, Data Engineering Engineering Engineering • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/55afe71d-6797-40fe-8a69-b94f7ffd5104/manager-data-engineering/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Manager, Marketing Operations, America Engineering Engineering • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/6fab0c42-c463-43dd-83d6-40768ead75a3/manager-marketing-operations-america/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Senior Regulatory Compliance Manager, HK Regulatory & Compliance Regulatory & Compliance • Hong Kong SAR APAC , Hong Kong SAR Hong Kong SAR](https://careers.airwallex.com/job/1f88a30a-a8e8-4271-9d8b-73ae5caec5ea/senior-regulatory-compliance-manager-hk/) | 香港 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Senior Associate, Strategy & Operations, CEO Office Operations Management Operations Management • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/d02b9e71-25cc-42e3-baeb-ace314ef250f/senior-associate-strategy-operations-ceo-office/) | 待识别 | 待识别 | 待识别 | 运营策略 | 待核验 | 10 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Senior Manager, Strategy & Operations, CEO Office Operations Management Operations Management • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/8e12a614-48e4-4c03-abf7-ea1c5f95e724/senior-manager-strategy-operations-ceo-office/) | 待识别 | 待识别 | 待识别 | 运营策略 | 待核验 | 10 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Coinbase | [Manager, Product Communications](https://www.coinbase.com/careers/positions/8160771?gh_jid=8160771) | Remote - USA | 待识别 | 待识别 | 金融科技 | 待核验 | 8 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Senior Internal Communications Manager](https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Senior Internal Communications Manager, People](https://www.coinbase.com/careers/positions/8162914?gh_jid=8162914) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Senior Software Engineer, Compute Platform](https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
 
 ## 当前开放/待核验岗位（按匹配分）
 | 公司 | 职位/批次 | 地点 | 方向 | 匹配分 | 状态 |
@@ -48,30 +61,42 @@
 | 上海建科咨询集团 | [暑期实习暨2027届秋招提前批次](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html) | 上海 | 数据分析/产品经理 | 82 | 官方公告；具体岗位与当前截止状态待核验 |
 | 拼多多集团 | [合规运营管培生（2027届提前批）](https://careers.pddglobalhr.com/campus) | 上海 | 合规/AML | 78 | 批次和截止日期已核验；具体JD回官网确认 |
 | 上海农商银行 | [• 上海农商银行2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html) | 上海 | 其他 | 76 | 官方页面待详情核验 |
+| 上海猎聘 | [【上海跨境支付平台招聘网_2026年上海跨境支付平台招聘信息】-上海猎聘](https://www.liepin.com/city-sh/zpkjzfptv7a5/) | 上海 | 支付产品 | 76 | 搜索线索，需回官方核验 |
+| 上海猎聘 | [【上海跨境支付招聘网_2026年上海跨境支付招聘信息】-上海猎聘](https://m.liepin.com/city-sh/zpkjzf/) | 上海 | 支付产品 | 76 | 搜索线索，需回官方核验 |
+| 上海农商银行 | [上海农商银行2027届暑期实习生招聘启动_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html) | 上海 | 其他 | 72 | 搜索线索，需回官方核验 |
 | 上海建科咨询集团 | [• 上海建科咨询集团暑期实习暨2027届秋招提前批次招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html) | 上海 | 其他 | 70 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海建科咨询集团暑期实习暨2027届秋招提前批次招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html) | 上海 | 其他 | 70 | 官方页面待详情核验 |
 | 上海农商银行 | [• 上海农商银行2026年博士后研究人员招聘启事](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260415/d1c2487026d7453f9df9e63c15c2852c.html) | 上海 | 其他 | 68 | 官方页面待详情核验 |
 | 拼多多集团 | [数据分析师（2027届提前批）](https://careers.pddglobalhr.com/campus) | 上海 | 数据分析 | 68 | 批次和截止日期已核验；具体JD回官网确认 |
 | Coinbase | [Analyst II, Treasury Operations](https://www.coinbase.com/careers/positions/8160489?gh_jid=8160489) | Remote - USA | 合规/AML/运营策略 | 67 | 官方ATS |
-| Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253) | Hybrid - London, UK | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498) | Hybrid - Singapore | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501) | Hybrid - Singapore | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
+| Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253) | Hybrid - London, UK | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308) | Hybrid - London, UK | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Customer Support Supervisor](https://www.coinbase.com/careers/positions/8120315?gh_jid=8120315) | Manila, Philippines | 合规/AML/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Machine Learning Engineer](https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187) | Remote - India | 合规/AML/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Prime Sales Trader](https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951) | Remote - USA | 产品经理/清算/基础设施 | 67 | 官方ATS |
-| Coinbase | [Risk & Monitoring Analyst IV](https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686) | Dublin, Ireland | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Risk & Monitoring Analyst IV](https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
+| Coinbase | [Risk & Monitoring Analyst IV](https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686) | Dublin, Ireland | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Software Engineer](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605) | Charlotte, NC | 合规/AML/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Software Engineer, EAA ](https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066) | Remote - Brazil | 合规/AML/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Software Engineer, EAA Integrations](https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051) | Remote - India | 合规/AML/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Staff Product Designer (Experience & Engagement)](https://www.coinbase.com/careers/positions/8014564?gh_jid=8014564) | Remote - USA | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Supervisor, Customer Success Team](https://www.coinbase.com/careers/positions/8082829?gh_jid=8082829) | Remote - Cyprus | 合规/AML/AI/Agent | 67 | 官方ATS |
+| _金融风控数据分析 | [【金融风控数据分析】_金融风控数据分析招聘-猎聘](https://www.liepin.com/s/jrfksjfxc4uk414/) | 上海 | 数据分析 | 66 | 搜索线索，需回官方核验 |
 | • “夏日骐骥”上海国资国企 | [• “夏日骐骥”上海国资国企2026年 暑期实习启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
 | • 上汽集团 | [• 上汽集团2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/d421e95c01714a78bcfb972dc8c6ecaf.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
 | • 浦发银行 | [• 浦发银行2026年“Call浦新星”暑期实习生计划启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
+| 上海2027届秋招信息差｜校招公司名单·提前批·实习招聘企业库（每日更新） | [上海2027届秋招信息差｜校招公司名单·提前批·实习招聘企业库（每日更新） / Ai简历姬](https://www.resumemakeroffer.com/jobradar/companies/city/上海) | 上海 | 其他 | 66 | 搜索线索，需回官方核验 |
+| 上海期货交易所 | [• “夏日骐骥”上海国资国企2026年 暑期实习启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海农商银行2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海银行2026年暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260512/4975f8dd7e6e4345a82ea75514e49158.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
 | 上海银行 | [• 上海银行2026年暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260512/4975f8dd7e6e4345a82ea75514e49158.html) | 上海 | 其他 | 66 | 官方页面待详情核验 |
+| 校招信息汇总_最新春招/实习/提前批 - 超级简历WonderCV | [校招信息汇总_最新春招/实习/提前批 - 超级简历WonderCV](https://www.wondercv.com/xiaozhao/) | 上海/北京 | 其他 | 66 | 搜索线索，需回官方核验 |
 | PayerMax | [Self-Service Settlement](https://www.payermax.com/products/fund-management#backstage) | 待识别 | 清算/基础设施 | 65 | 官方页面待详情核验 |
 | 字节跳动 | [AI产品经理早鸟通道（2027届）](https://www.chaojijianli.com/xiaozhao/autumn-recruit-ai-early-batch-11585-6f03a5/) | 上海 | 产品经理 | 64 | 聚合线索；必须回字节校招官网核验 |
+| 2027 Full-Time Graduate Analyst Program | [2027 Full-Time Graduate Analyst Program – FinTech Platform](https://bebee.com/hk/jobs/2027-full-time-graduate-analyst-program-fintech-platform-aladdin-data-blackrock-hong-kong--fj-2333077262) | 待识别 | 风控策略/数据分析/金融科技 | 63 | 搜索线索，需回官方核验 |
+| 2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育 | [2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育](https://sh.huatu.com/2026/0817/1276854.html) | 上海 | 其他 | 62 | 搜索线索，需回官方核验 |
 | >国企 | [>国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 2026年奉贤区区属国有企业招聘公告 | [• 2026年奉贤区区属国有企业招聘公告](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 2026年崇明区区管企业公开招聘 | [• 2026年崇明区区管企业公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260515/5315060ec9a44997b28a413cac9c4b28.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
@@ -81,56 +106,51 @@
 | • 上海市闵行区 | [• 上海市闵行区2026年区管国企公开招聘公告（第二批）](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 联和投资公司 | [• 联和投资公司2026年博士后招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260520/24aadc76d45644f8825c733f991f3ad1.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 锦江国际集团 | [• 锦江国际集团2026届春季校园招聘开启](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260422/32ec65803f1e482187e6ea97041c5c14.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海农商银行2026年博士后研究人员招聘启事](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260415/d1c2487026d7453f9df9e63c15c2852c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海市闵行区2026年区管国企公开招聘公告（第二批）](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 2027 | APEJ | Hong Kong | Risk, Credit R | [2027 / APEJ / Hong Kong / Risk, Credit Risk / Summer Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-credit-risk-summer-analyst/10010735) | 香港 | 其他 | 57 | 搜索线索，需回官方核验 |
+| Graduate Programmes - LSEG | [Graduate Programmes - LSEG](https://www.lseg.com/en/careers/graduate-internship-programmes/graduate-programmes) | 香港 | 其他 | 57 | 搜索线索，需回官方核验 |
+| Job offer | [Job offer 2027 APAC Graduate Programme – RISK – Hong Kong - BNP Paribas](https://group.bnpparibas/en/careers/job-offer/2027-apac-graduate-programme-risk-hong-kong) | 香港 | 其他 | 57 | 搜索线索，需回官方核验 |
+| 拼多多集团 | [拼多多集团-PDD2027届校招提前批启动- 上海本地宝](https://sh.bendibao.com/job/2026710/307522.shtm) | 上海 | 其他 | 56 | 搜索线索，需回官方核验 |
+| Checkout.com | [Fraud Detection Build a robust risk strategy](https://www.checkout.com/products/fraud-detection) | 待识别 | 风控策略 | 55 | 官方页面待详情核验 |
 | Coinbase | [Credit Risk Analyst](https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
-| Coinbase | [Embedded Wallets](https://www.coinbase.com/developer-platform/products/embeddedwallets) | 待识别 | 合规/AML | 55 | 官方页面待详情核验 |
 | Coinbase | [Internal Audit Analyst](https://www.coinbase.com/careers/positions/8031603?gh_jid=8031603) | Remote - USA | 合规/AML | 55 | 官方ATS |
+| Coinbase | [Screening Analyst II](https://www.coinbase.com/careers/positions/8147669?gh_jid=8147669) | Hyderabad, India | 合规/AML/金融科技 | 55 | 官方ATS |
 | Coinbase | [Specialist, Treasury & Banking Operations](https://www.coinbase.com/careers/positions/8126403?gh_jid=8126403) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Sr. Staff Technical Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Sr. Staff Technical Risk Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Staff Accountant, Cyprus](https://www.coinbase.com/careers/positions/8053751?gh_jid=8053751) | Remote - Cyprus | 合规/AML/金融科技 | 55 | 官方ATS |
-| Airwallex空中云汇 | [Counsel, Product Legal (Lending) Legal & Licensing Legal & Licensing • New York Americas , New York New York](https://careers.airwallex.com/job/ec93e728-bf15-4fd6-8a43-a4bf6bf6ed98/counsel-product-legal-lending/) | 纽约 | 其他 | 51 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Counsel, Product Legal (Strategic Partnerships) Legal & Licensing Legal & Licensing • New York Americas , New York New York](https://careers.airwallex.com/job/ad7aaf45-cf1c-4946-a479-713f38b612a9/counsel-product-legal-strategic-partnerships/) | 纽约 | 其他 | 51 | 官方页面待详情核验 |
+| 拉卡拉 | [跨境支付](https://www.lakala.com/product_service/commerce.html) | 待识别 | 支付产品 | 55 | 官方页面待详情核验 |
+| 上海国茂控股 | [国企招聘_上海市国有资产监督管理委员会](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 上海银行 | [上海银行2026届春季校园招聘启动_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260227/589749e473da408cad551122342a76fa.html) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 小红书 | [小红书校园招聘](https://job.xiaohongshu.com/campus/position/21750) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 小红书 | [小红书校园招聘 - job.xiaohongshu.com](https://job.xiaohongshu.com/campus/position/21311) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 申通地铁集团 | [上海地铁第四运营有限公司2026年应届高校毕业生招聘启事_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260310/7b7df590d92d4ec98def1b8eb8454a6e.html) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 申通地铁集团 | [申通地铁集团招聘启事_国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20240220/71167b72052049c59ac15ae888e71022.html) | 上海 | 其他 | 54 | 搜索线索，需回官方核验 |
+| 蚂蚁集团 | [【重庆校招】蚂蚁集团2027届校园招聘开启！重庆有岗！](https://mp.weixin.qq.com/s/CfjDFhQn9XlEZAcgwLkBMg) | 上海/香港/北京/深圳 | 其他 | 54 | 搜索线索，需回官方核验 |
+| Product Engineer 产品工程师 - 跨境电商&支付 | [【27届实习】Product Engineer 产品工程师 - 跨境电商&支付](https://job.xiaohongshu.com/campus/position/20820) | 待识别 | 合规/AML | 51 | 搜索线索，需回官方核验 |
+| 支付风控策略专家 | [支付风控策略专家](https://job.xiaohongshu.com/social/position/18130) | 待识别 | 风控策略 | 51 | 搜索线索，需回官方核验 |
 | Airwallex空中云汇 | [Associate GTM Partnerships Manager](https://careers.airwallex.com/job/eb5e2e34-538f-4cad-a1b8-82c260c2ff6f/associate-gtm-partnerships-manager/) | 香港 | 运营策略 | 50 | 官方职位页可访问；非明确校招 |
+| 2027 Legal and Compliance Summer Analyst | [2027 Legal and Compliance Summer Analyst Program (Hong Kong) – Cornell Career Network](https://career.cornell.edu/jobs/morgan-stanley-2027-legal-and-compliance-summer-analyst-program-hong-kong/) | 香港 | 其他 | 49 | 搜索线索，需回官方核验 |
+| 2027 | APEJ | Hong Kong | Compliance | N | [2027 / APEJ / Hong Kong / Compliance / New Analyst - Built In](https://builtin.com/job/2027-apej-hong-kong-compliance-new-analyst/10010728) | 香港 | 其他 | 49 | 搜索线索，需回官方核验 |
+| 2027 | APEJ | Hong Kong | Risk, Market R | [2027 / APEJ / Hong Kong / Risk, Market Risk / New Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-market-risk-new-analyst/10775759) | 香港 | 其他 | 49 | 搜索线索，需回官方核验 |
+| Fintech jobs in Hong Kong | Michael Page | [Fintech jobs in Hong Kong / Michael Page](https://www.michaelpage.com.hk/jobs/fintech) | 香港 | 金融科技 | 49 | 搜索线索，需回官方核验 |
+| Hong Kong early career programmes - Standard Chartered | [Hong Kong early career programmes - Standard Chartered](https://www.sc.com/en/global-careers/early-careers/local-programmes-for-students/hong-kong-student-opportunities/) | 香港 | 金融科技 | 49 | 搜索线索，需回官方核验 |
 | Airwallex空中云汇 | [Transaction Monitoring Senior Analyst](https://careers.airwallex.com/job/974fc2b2-a016-443a-a6f0-d351fae48cc7/transaction-monitoring-senior-analyst/) | 上海 | 合规/AML | 45 | 官方职位页可访问；高级岗，不按应届岗推荐 |
-| Coinbase | [AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Derivative Sales Analyst](https://www.coinbase.com/careers/positions/8097446?gh_jid=8097446) | Remote - UK | 数据分析 | 45 | 官方ATS |
-| Coinbase | [Derivative Sales Analyst (Prosumer Sales)](https://www.coinbase.com/careers/positions/8021857?gh_jid=8021857) | Remote - USA | 数据分析 | 45 | 官方ATS |
-| Coinbase | [Group Product Manager, Compliance Agent Experience](https://www.coinbase.com/careers/positions/8060662) | 待识别 | 产品经理/AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Compliance Automation](https://www.coinbase.com/careers/positions/7701642) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Core Infrastructure & Reliability](https://www.coinbase.com/careers/positions/7997785) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Developer Infrastructure](https://www.coinbase.com/careers/positions/8017607) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Financial Engineering](https://www.coinbase.com/careers/positions/7789404) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Internal Audit Analytics Associate](https://www.coinbase.com/careers/positions/8109575) | 待识别 | 数据分析 | 45 | 官方页面待详情核验 |
-| Coinbase | [Internal Audit Analytics Associate](https://www.coinbase.com/careers/positions/8109575?gh_jid=8109575) | Remote - USA | 数据分析/金融科技 | 45 | 官方ATS |
-| Coinbase | [Machine Learning Engineer](https://www.coinbase.com/careers/positions/7985187) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Machine Learning Engineer, CX Intelligence](https://www.coinbase.com/careers/positions/8031260) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Machine Learning Engineer, CX Intelligence](https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260) | Remote - Brazil | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Payments Risk Analyst II](https://www.coinbase.com/careers/positions/7984814?gh_jid=7984814) | Remote - USA | 数据分析/金融科技 | 45 | 官方ATS |
-| Coinbase | [Product Manager II, Workspace and Multi-User](https://www.coinbase.com/careers/positions/8148171) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Social Support Specialist I](https://www.coinbase.com/careers/positions/8147657?gh_jid=8147657) | Manila, Philippines | 金融科技/AI/Agent | 45 | 官方ATS |
-| Coinbase | [Software Engineer, CDP - Stablecoin](https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485) | Remote - Canada | 产品经理 | 45 | 官方ATS |
-| Coinbase | [Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)](https://www.coinbase.com/careers/positions/8070574) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)](https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574) | Remote - USA | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Staff Analytics Engineer, Compliance Data](https://www.coinbase.com/careers/positions/8104148) | 待识别 | 数据分析 | 45 | 官方页面待详情核验 |
-| Coinbase | [Staff Machine Learning Engineer(Platform - Identity)](https://www.coinbase.com/careers/positions/7891045) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Home](https://careers.airwallex.com/) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Jobs](https://careers.airwallex.com/jobs/) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Life at Airwallex](https://careers.airwallex.com/blog/) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Page 2](https://careers.airwallex.com/jobs/?e-page-9075d2b=2) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Page 3](https://careers.airwallex.com/jobs/?e-page-9075d2b=3) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Page 81](https://careers.airwallex.com/jobs/?e-page-9075d2b=81) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [Sales Development Representative, SME & Growth Sales Sales • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/48d3ca5d-e2b1-4e2c-abd9-e58e84942e52/sales-development-representative-sme-growth/) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| Airwallex空中云汇 | [verify an Airwallex job or recruiter](https://careers.airwallex.com/blog/verify-airwallex-job/) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| PayerMax | [Anti-Fraud Solutions](https://www.payermax.com/products/risk-management#anti-frand-solutions) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| PayerMax | [Chargeback Solutions](https://www.payermax.com/products/risk-management#chargeback-solutions) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
-| PayerMax | [Collection Scenarios](https://www.payermax.com/products/global-collection#capability) | 待识别 | 其他 | 43 | 官方页面待详情核验 |
 
 ## 新发现公司（待纳入公司池）
 | 公司 | 触发岗位/公告 | 地点 | 来源 | 核验动作 |
 |---|---|---|---|---|
+| 上海猎聘 | [【上海跨境支付平台招聘网_2026年上海跨境支付平台招聘信息】-上海猎聘](https://www.liepin.com/city-sh/zpkjzfptv7a5/) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 上海猎聘 | [【上海跨境支付招聘网_2026年上海跨境支付招聘信息】-上海猎聘](https://m.liepin.com/city-sh/zpkjzf/) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| _金融风控数据分析 | [【金融风控数据分析】_金融风控数据分析招聘-猎聘](https://www.liepin.com/s/jrfksjfxc4uk414/) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • “夏日骐骥”上海国资国企 | [• “夏日骐骥”上海国资国企2026年 暑期实习启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 上汽集团 | [• 上汽集团2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/d421e95c01714a78bcfb972dc8c6ecaf.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 浦发银行 | [• 浦发银行2026年“Call浦新星”暑期实习生计划启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 上海2027届秋招信息差｜校招公司名单·提前批·实习招聘企业库（每日更新） | [上海2027届秋招信息差｜校招公司名单·提前批·实习招聘企业库（每日更新） / Ai简历姬](https://www.resumemakeroffer.com/jobradar/companies/city/上海) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 校招信息汇总_最新春招/实习/提前批 - 超级简历WonderCV | [校招信息汇总_最新春招/实习/提前批 - 超级简历WonderCV](https://www.wondercv.com/xiaozhao/) | 上海/北京 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027 Full-Time Graduate Analyst Program | [2027 Full-Time Graduate Analyst Program – FinTech Platform](https://bebee.com/hk/jobs/2027-full-time-graduate-analyst-program-fintech-platform-aladdin-data-blackrock-hong-kong--fj-2333077262) | 待识别 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育 | [2027届央国企秋招公告汇总_上海行政执法公务员考试网_华图教育](https://sh.huatu.com/2026/0817/1276854.html) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | >国企 | [>国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 2026年奉贤区区属国有企业招聘公告 | [• 2026年奉贤区区属国有企业招聘公告](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 2026年崇明区区管企业公开招聘 | [• 2026年崇明区区管企业公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260515/5315060ec9a44997b28a413cac9c4b28.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
@@ -140,12 +160,23 @@
 | • 上海市闵行区 | [• 上海市闵行区2026年区管国企公开招聘公告（第二批）](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 联和投资公司 | [• 联和投资公司2026年博士后招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260520/24aadc76d45644f8825c733f991f3ad1.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 | • 锦江国际集团 | [• 锦江国际集团2026届春季校园招聘开启](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260422/32ec65803f1e482187e6ea97041c5c14.html) | 上海 | 上海国资委国企招聘 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027 | APEJ | Hong Kong | Risk, Credit R | [2027 / APEJ / Hong Kong / Risk, Credit Risk / Summer Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-credit-risk-summer-analyst/10010735) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| Graduate Programmes - LSEG | [Graduate Programmes - LSEG](https://www.lseg.com/en/careers/graduate-internship-programmes/graduate-programmes) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| Job offer | [Job offer 2027 APAC Graduate Programme – RISK – Hong Kong - BNP Paribas](https://group.bnpparibas/en/careers/job-offer/2027-apac-graduate-programme-risk-hong-kong) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 小红书 | [小红书校园招聘 - job.xiaohongshu.com](https://job.xiaohongshu.com/campus/position/21311) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 小红书 | [小红书校园招聘](https://job.xiaohongshu.com/campus/position/21750) | 上海 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| Product Engineer 产品工程师 - 跨境电商&支付 | [【27届实习】Product Engineer 产品工程师 - 跨境电商&支付](https://job.xiaohongshu.com/campus/position/20820) | 待识别 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 支付风控策略专家 | [支付风控策略专家](https://job.xiaohongshu.com/social/position/18130) | 待识别 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027 Legal and Compliance Summer Analyst | [2027 Legal and Compliance Summer Analyst Program (Hong Kong) – Cornell Career Network](https://career.cornell.edu/jobs/morgan-stanley-2027-legal-and-compliance-summer-analyst-program-hong-kong/) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027 | APEJ | Hong Kong | Compliance | N | [2027 / APEJ / Hong Kong / Compliance / New Analyst - Built In](https://builtin.com/job/2027-apej-hong-kong-compliance-new-analyst/10010728) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| 2027 | APEJ | Hong Kong | Risk, Market R | [2027 / APEJ / Hong Kong / Risk, Market Risk / New Analyst](https://builtin.com/job/2027-apej-hong-kong-risk-market-risk-new-analyst/10775759) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
+| Fintech jobs in Hong Kong | Michael Page | [Fintech jobs in Hong Kong / Michael Page](https://www.michaelpage.com.hk/jobs/fintech) | 香港 | 公共Web搜索-官网与提前批 | 核验公司性质、地点与官方招聘入口后加入 companies.yaml |
 
 ## 数据源健康
 | 数据源 | 状态 | 抓取数 | 详情 |
 |---|---|---:|---|
-| 公司池官方招聘页轮询 | partial | 326 | Scanned 21 official pages: 9 ok, 5 empty/partial, 7 failed; rotation bucket 4/7 |
-| Airwallex官方职位 | ok | 5 | HTTP 200; extracted 5 candidate links |
+| 公司池官方招聘页轮询 | partial | 99 | Scanned 21 official pages: 7 ok, 6 empty/partial, 8 failed; rotation bucket 5/7 |
+| Airwallex官方职位 | ok | 10 | HTTP 200; extracted 10 candidate links |
 | 上海国资委国企招聘 | ok | 16 | HTTP 200; extracted 16 candidate links |
 | 中国银联招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='career.unionpay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='career.unionpay.com', port=443): Failed to resolve 'career.unionpay.com' ([Errno -2] Name or service not known)")) |
 | 上海农商银行招聘官网 | partial | 0 | HTTP 200; extracted 0 candidate links |
@@ -153,8 +184,8 @@
 | PayerMax招聘官网 | ok | 1 | HTTP 200; extracted 1 candidate links |
 | SUNRATE招聘官网 | ok | 3 | HTTP 200; extracted 3 candidate links |
 | ZA Bank招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='careers.za.group', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='careers.za.group', port=443): Failed to resolve 'careers.za.group' ([Errno -2] Name or service not known)")) |
-| Coinbase官方ATS | ok | 179 | Greenhouse board=coinbase |
-| 公共Web搜索-官网与提前批 | blocked | 0 | DDGSException: No results found. |
+| Coinbase官方ATS | ok | 184 | Greenhouse board=coinbase |
+| 公共Web搜索-官网与提前批 | ok | 67 | Public web search completed |
 | 实习僧Skill本地导出 | blocked | 0 | Waiting for local export: data/external/shixiseng_jobs.csv |
 
 ## 筛选规则
