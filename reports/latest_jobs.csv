@@ -1,360 +1,468 @@
 ﻿发现日期,公司,职位,地点,批次,面向届别,职能方向,截止日期,匹配分,是否今日新增,来源,来源级别,原始链接,核验状态
-2026-09-22,上海农商银行,2027届暑期实习生招聘,上海,暑期实习/留用,2027届,金融科技/风控策略,,98,否,上海国资委,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html,官方公告；报名是否仍开放待核验
-2026-09-22,上海建科咨询集团,暑期实习暨2027届秋招提前批次,上海,提前批,2027届,数据分析/产品经理,,82,否,上海国资委,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html,官方公告；具体岗位与当前截止状态待核验
-2026-09-22,拼多多集团,合规运营管培生（2027届提前批）,上海,提前批,2027届,合规/AML,2026-08-23,78,否,PDD官方校招入口（公开公告核验）,2,https://careers.pddglobalhr.com/campus,批次和截止日期已核验；具体JD回官网确认
-2026-09-22,拼多多集团,数据分析师（2027届提前批）,上海,提前批,2027届,数据分析,2026-08-23,68,否,PDD官方校招入口（公开公告核验）,2,https://careers.pddglobalhr.com/campus,批次和截止日期已核验；具体JD回官网确认
-2026-09-22,Coinbase,Analytics Engineer Intern,"Hybrid - San Francisco, CA",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471,官方ATS
-2026-09-22,Coinbase,Business Controller Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366,官方ATS
-2026-09-22,Coinbase,Complaints Analyst II,"Manila, Philippines",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777,官方ATS
-2026-09-22,Coinbase,Complaints Analyst II,"Manila, Philippines",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7151562?gh_jid=7151562,官方ATS
-2026-09-22,Coinbase,Concierge Specialist IV,Hybrid - Singapore,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501,官方ATS
-2026-09-22,Coinbase,Concierge Specialist IV,Hybrid - Singapore,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498,官方ATS
-2026-09-22,Coinbase,Concierge Specialist IV,"Hybrid - London, UK",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308,官方ATS
-2026-09-22,Coinbase,Concierge Specialist IV,"Hybrid - London, UK",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253,官方ATS
-2026-09-22,Coinbase,Employee and Workplace Experience Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429,官方ATS
-2026-09-22,Coinbase,Internal Audit Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432,官方ATS
-2026-09-22,Coinbase,Machine Learning Engineer,Remote - India,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187,官方ATS
-2026-09-22,Coinbase,Payment Risk Intern,"Hybrid - New York, NY",待识别,,风控策略/合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447,官方ATS
-2026-09-22,Coinbase,People Analytics Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517,官方ATS
-2026-09-22,Coinbase,Prime Sales Trader,Remote - USA,待识别,,产品经理/清算/基础设施,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951,官方ATS
-2026-09-22,Coinbase,Product Design Intern,"Hybrid - San Francisco, CA",待识别,,合规/AML/产品经理,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339,官方ATS
-2026-09-22,Coinbase,Risk & Monitoring Analyst III,Remote - UK,待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696,官方ATS
-2026-09-22,Coinbase,Risk & Monitoring Analyst IV,Remote - UK,待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976,官方ATS
-2026-09-22,Coinbase,Risk & Monitoring Analyst IV,"Dublin, Ireland",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686,官方ATS
-2026-09-22,Coinbase,Software Engineer,"Charlotte, NC",待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605,官方ATS
-2026-09-22,Coinbase,"Software Engineer, EAA ",Remote - Brazil,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066,官方ATS
-2026-09-22,Coinbase,Staff Product Designer (Experience & Engagement),Remote - USA,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8014564?gh_jid=8014564,官方ATS
-2026-09-22,Coinbase,"Supervisor, Customer Success Team",Remote - Cyprus,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8082829?gh_jid=8082829,官方ATS
-2026-09-22,Coinbase,Tax Information Reporting Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241,官方ATS
-2026-09-22,• “夏日骐骥”上海国资国企,• “夏日骐骥”上海国资国企2026年 暑期实习启动！,上海,暑期实习/留用,,其他,,66,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html,官方页面待详情核验
-2026-09-22,• 浦发银行,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,上海,暑期实习/留用,,其他,,66,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
-2026-09-22,中国结算,• “夏日骐骥”上海国资国企2026年 暑期实习启动！,上海,暑期实习/留用,,其他,,66,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html,官方页面待详情核验
-2026-09-22,中银消费金融,• “夏日骐骥”上海国资国企2026年 暑期实习启动！,上海,暑期实习/留用,,其他,,66,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• “夏日骐骥”上海国资国企2026年 暑期实习启动！,上海,暑期实习/留用,,其他,,66,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260612/8187bf715aeb4626a2855f15bebb5460.html,官方页面待详情核验
-2026-09-22,PayerMax,Self-Service Settlement,,待识别,,清算/基础设施,,65,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#backstage,官方页面待详情核验
-2026-09-22,iPayLinks,合规体系,,待识别,,合规/AML,,65,否,公司池官方招聘页轮询/iPayLinks,1,https://www.ipaylinks.com/compliance_system.php,官方页面待详情核验
-2026-09-22,连连数字/连连国际,合规资质,,待识别,,合规/AML,,65,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/company/compliance,官方页面待详情核验
-2026-09-22,字节跳动,AI产品经理早鸟通道（2027届）,上海,提前批,2027届,产品经理,2026-08-02,64,否,公开招聘线索,3,https://www.chaojijianli.com/xiaozhao/autumn-recruit-ai-early-batch-11585-6f03a5/,聚合线索；必须回字节校招官网核验
-2026-09-22,>国企,>国企招聘,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
-2026-09-22,• 2026年嘉定区区属国有企业秋季专场招聘启动,• 2026年嘉定区区属国有企业秋季专场招聘启动,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
-2026-09-22,• 2026年奉贤区区属国有企业招聘公告,• 2026年奉贤区区属国有企业招聘公告,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
-2026-09-22,• 2026年青浦区区管企业统一招聘公告,• 2026年青浦区区管企业统一招聘公告,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260526/383e7d09b67849b79f260c11c80dbc62.html,官方页面待详情核验
-2026-09-22,• 上实集团,• 上实集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
-2026-09-22,• 上汽集团,• 上汽集团2027届全球校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
-2026-09-22,• 上海市闵行区,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
-2026-09-22,• 上海建工,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
-2026-09-22,• 华谊集团,• 华谊集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
-2026-09-22,• 浦发银行,• 浦发银行2027年度全球校园招聘启动,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
-2026-09-22,• 申能股份,• 申能股份2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
-2026-09-22,• 申能集团,• 申能集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
-2026-09-22,• 百联集团,• 百联集团2027届校园招聘正式启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
-2026-09-22,• 锦江国际集团,• 锦江国际集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
-2026-09-22,中国结算,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
-2026-09-22,中国结算,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,"Growth Marketer, T:0 Strategy and Operations Strategy and Operations • San Francisco Americas , San Francisco San Francisco",,待识别,,运营策略,,55,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/be0a9923-b6fe-4b83-babd-10698d65de99/growth-marketer-t0/,官方页面待详情核验
-2026-09-22,Coinbase,"Accountant, Cyprus",Remote - Cyprus,待识别,,合规/AML/金融科技,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8053751?gh_jid=8053751,官方ATS
-2026-09-22,Coinbase,Credit Risk Analyst,Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356,官方ATS
-2026-09-22,Coinbase,Finance Operations Intern,"Hybrid - New York, NY",待识别,,合规/AML,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569,官方ATS
-2026-09-22,Coinbase,Real Estate & Builds Intern,"Hybrid - New York, NY",待识别,,合规/AML,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507,官方ATS
-2026-09-22,Coinbase,SAM Analyst III,Remote - USA,待识别,,合规/AML/金融科技,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147700?gh_jid=8147700,官方ATS
-2026-09-22,Coinbase,"Software Engineer, CDP - Payment Acceptance ",Remote - USA,待识别,,合规/AML/清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730,官方ATS
-2026-09-22,Coinbase,"Specialist, Market Operations",Remote - UK,待识别,,清算/基础设施,,55,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267,官方ATS
-2026-09-22,Coinbase,"Specialist, Market Operations",Remote - Singapore,待识别,,清算/基础设施,,55,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264,官方ATS
-2026-09-22,Coinbase,"Specialist, Market Operations",Remote - USA,待识别,,清算/基础设施,,55,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259,官方ATS
-2026-09-22,Coinbase,"Sr. Staff Technical Architect, Unified Trading",Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772,官方ATS
-2026-09-22,Coinbase,"Sr. Staff Technical Risk Architect, Unified Trading",Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776,官方ATS
-2026-09-22,Airwallex空中云汇,"Corporate Secretary Legal & Licensing Legal & Licensing • New York Americas , New York New York",纽约,待识别,,其他,,51,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/151776d6-df95-46aa-8019-ddc28825b3f9/corporate-secretary/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Associate GTM Partnerships Manager,香港,日常招聘,,运营策略,,50,否,Airwallex官方职位,1,https://careers.airwallex.com/job/eb5e2e34-538f-4cad-a1b8-82c260c2ff6f/associate-gtm-partnerships-manager/,官方职位页可访问；非明确校招
-2026-09-22,Airwallex空中云汇,Transaction Monitoring Senior Analyst,上海,日常招聘,,合规/AML,,45,否,Airwallex官方职位,1,https://careers.airwallex.com/job/974fc2b2-a016-443a-a6f0-d351fae48cc7/transaction-monitoring-senior-analyst/,官方职位页可访问；高级岗，不按应届岗推荐
-2026-09-22,Coinbase,Accounting Intern,"Hybrid - New York, NY",待识别,,数据分析,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991,官方ATS
-2026-09-22,Coinbase,Associate Product Manager Intern,"Hybrid - San Francisco, CA",待识别,,产品经理/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322,官方ATS
-2026-09-22,Coinbase,Data Engineer Intern,"Hybrid - San Francisco, CA",待识别,,数据分析/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459,官方ATS
-2026-09-22,Coinbase,Data Science Intern,"Hybrid - San Francisco, CA",待识别,,数据分析/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462,官方ATS
-2026-09-22,Coinbase,Derivative Sales Analyst,Remote - UK,待识别,,数据分析,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444,官方ATS
-2026-09-22,Coinbase,Internal Audit Analytics Intern,"Hybrid - New York, NY",待识别,,数据分析,,45,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238,官方ATS
-2026-09-22,Coinbase,Machine Learning Engineer Intern,"Hybrid - San Francisco, CA",待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441,官方ATS
-2026-09-22,Coinbase,"Machine Learning Engineer, CX Intelligence",Remote - Brazil,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260,官方ATS
-2026-09-22,Coinbase,Payments Risk Analyst I,"Manila, Philippines",待识别,,数据分析/金融科技,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147663?gh_jid=8147663,官方ATS
-2026-09-22,Coinbase,Payments Risk Analyst II,Remote - USA,待识别,,数据分析/金融科技,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7984814?gh_jid=7984814,官方ATS
-2026-09-22,Coinbase,Product Manager (HR Technology) Intern,"Hybrid - New York, NY",待识别,,产品经理/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504,官方ATS
-2026-09-22,Coinbase,Product Security Engineer,Remote - Canada,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389,官方ATS
-2026-09-22,Coinbase,Software Engineer Intern,"Hybrid - San Francisco, CA",待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315,官方ATS
-2026-09-22,Coinbase,"Software Engineer, Security Platform",Remote - India,待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441,官方ATS
-2026-09-22,Coinbase,Strategic Finance Intern,"Hybrid - New York, NY",待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438,官方ATS
-2026-09-22,Coinbase,Threat Intelligence Platform Engineer,Remote - USA,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619,官方ATS
-2026-09-22,Coinbase,User Research Intern,"Hybrid - San Francisco, CA",待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360,官方ATS
-2026-09-22,Airwallex空中云汇,"Account Executive, SME & Growth Sales Sales • Auckland APAC , Auckland Auckland",,待识别,,其他,,43,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/0db2de68-86ac-47d3-a80f-9b1ffe9c2101/account-executive-sme-growth/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Benefits,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/what-we-offer/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Home,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,In the news,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/in-the-news/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,"Inbound Sales Representative, SME & Growth Sales Sales • Auckland APAC , Auckland Auckland",,待识别,,其他,,43,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/24c8ee2d-0c18-43ff-ba00-47f772709dab/inbound-sales-representative-sme-growth/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Jobs,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Life at Airwallex,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/blog/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Page 2,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=2,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Page 3,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=3,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Page 74,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=74,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,"People Operations Partner, Equity People and Talent People and Talent • Kuala Lumpur APAC , Kuala Lumpur Kuala Lumpur",,待识别,,其他,,43,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/70755f78-8a95-4117-96a2-0e8eb4f5b3f8/people-operations-partner-equity/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,Sales,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/sales-careers-at-airwallex/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,verify an Airwallex job or recruiter,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/blog/verify-airwallex-job/,官方页面待详情核验
-2026-09-22,PayerMax,Anti-Fraud Solutions,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#anti-frand-solutions,官方页面待详情核验
-2026-09-22,PayerMax,Chargeback Solutions,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#chargeback-solutions,官方页面待详情核验
-2026-09-22,PayerMax,Collection Scenarios,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#capability,官方页面待详情核验
-2026-09-22,PayerMax,Convenient Transfers,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#transfer,官方页面待详情核验
-2026-09-22,PayerMax,Customized Accounts,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#customization,官方页面待详情核验
-2026-09-22,PayerMax,Efficient Exchange,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#banner,官方页面待详情核验
-2026-09-22,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout,官方页面待详情核验
-2026-09-22,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection,官方页面待详情核验
-2026-09-22,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management,官方页面待详情核验
-2026-09-22,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex,官方页面待详情核验
-2026-09-22,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management,官方页面待详情核验
-2026-09-22,PayerMax,Fast Integration,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#integration,官方页面待详情核验
-2026-09-22,PayerMax,Flexible Setting,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#flexible-setting,官方页面待详情核验
-2026-09-22,PayerMax,Fund Security,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#experience,官方页面待详情核验
-2026-09-22,PayerMax,Long-Term FX management,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#long-term,官方页面待详情核验
-2026-09-22,PayerMax,Multi-Country Tax Payment,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#service,官方页面待详情核验
-2026-09-22,PayerMax,Payment Methods,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#capability,官方页面待详情核验
-2026-09-22,PayerMax,Payout Flow,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payout-flow,官方页面待详情核验
-2026-09-22,PayerMax,Payout Methods,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payment-methods,官方页面待详情核验
-2026-09-22,PayerMax,Payout Scenarios,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payout-scenarios,官方页面待详情核验
-2026-09-22,PayerMax,Product Docs,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://docs-v2.payermax.com/en/,官方页面待详情核验
-2026-09-22,PayerMax,Products,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring,官方页面待详情核验
-2026-09-22,PayerMax,Short-Term FX management,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#short-term,官方页面待详情核验
-2026-09-22,PayerMax,Transaction Optimization,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#optimization,官方页面待详情核验
-2026-09-22,PayerMax,View Jobs,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://payermax.jobs.feishu.cn/958616,官方页面待详情核验
-2026-09-22,iPayLinks,风险管理,,待识别,,其他,,43,否,公司池官方招聘页轮询/iPayLinks,1,https://www.ipaylinks.com/risk_management.php,官方页面待详情核验
-2026-09-22,寻汇SUNRATE,Careers,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://www.sunrate.com/careers/,官方页面待详情核验
-2026-09-22,寻汇SUNRATE,Global Payment,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://www.sunrate.com/careers/###,官方页面待详情核验
-2026-09-22,寻汇SUNRATE,See 120+ open roles,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://careers.sunrate.com,官方页面待详情核验
-2026-09-22,连连数字/连连国际,了解更多,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/vcc,官方页面待详情核验
-2026-09-22,连连数字/连连国际,产品文档,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/docs/products,官方页面待详情核验
-2026-09-22,连连数字/连连国际,全球付款,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/payout,官方页面待详情核验
-2026-09-22,连连数字/连连国际,全球收单,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/acquiring,官方页面待详情核验
-2026-09-22,连连数字/连连国际,全球收款,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/receiving,官方页面待详情核验
-2026-09-22,连连数字/连连国际,全球汇兑,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/star_fx,官方页面待详情核验
-2026-09-22,连连数字/连连国际,全球领跑 数百电商平台开店直通,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/store_opening,官方页面待详情核验
-2026-09-22,连连数字/连连国际,出口退税 高效出口退税方案,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/tax_rebate,官方页面待详情核验
-2026-09-22,连连数字/连连国际,出海职连 跨境就业求职信息平台,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/cross-career-link,官方页面待详情核验
-2026-09-22,连连数字/连连国际,商家信心指数,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/confidence_index,官方页面待详情核验
-2026-09-22,连连数字/连连国际,融资服务平台 0 抵押纯信用融资,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/lending,官方页面待详情核验
-2026-09-22,连连数字/连连国际,跨境直采 1688、JD等优质货源,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/looperbuy,官方页面待详情核验
-2026-09-22,连连数字/连连国际,银行假期日历,,待识别,,其他,,43,是,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/finance_calendar,官方页面待详情核验
-2026-09-22,Coinbase,"Accounting Manager, GL Operations & Intercompany",Remote - USA,待识别,,数据分析/金融科技/清算/基础设施,,42,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264,官方ATS
-2026-09-22,Coinbase,"Accounting Manager, GL Operations & Intercompany",Remote - Canada,待识别,,数据分析/金融科技/清算/基础设施,,42,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885,官方ATS
-2026-09-22,Coinbase,Sales Intern,"Hybrid - New York, NY",秋招,,其他,,41,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551,官方ATS
-2026-09-22,中国结算,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,"Global AML Manager Regulatory & Compliance Regulatory & Compliance • San Francisco Americas , San Francisco San Francisco",,待识别,,合规/AML,,40,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/43853328-cb5d-4b4a-af89-5fc3e5f83106/global-aml-manager/,官方页面待详情核验
-2026-09-22,Airwallex空中云汇,"Senior Analyst, Customer Support, GC",上海,日常招聘,,运营策略,,35,否,Airwallex官方职位,1,https://careers.airwallex.com/jobs/,官方职位列表已核验；详情待打开
-2026-09-22,Coinbase,Accelerations Programs Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363,官方ATS
-2026-09-22,Coinbase,"Analyst, Privacy",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175,官方ATS
-2026-09-22,Coinbase,Chief of Staff,Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316,官方ATS
-2026-09-22,Coinbase,Credit Risk Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369,官方ATS
-2026-09-22,Coinbase,Crypto Inventory Operations Intern,"Hybrid - New York, NY",待识别,,金融科技,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435,官方ATS
-2026-09-22,Coinbase,Customer Support Specialist II,"Manila, Philippines",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160097?gh_jid=8160097,官方ATS
-2026-09-22,Coinbase,Learning & Development Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514,官方ATS
-2026-09-22,Coinbase,"Legal Ops Associate, OC Management",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321,官方ATS
-2026-09-22,Coinbase,"Product Designer II, Design Systems",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8126896?gh_jid=8126896,官方ATS
-2026-09-22,Coinbase,Software Engineer,Remote - Canada,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374,官方ATS
-2026-09-22,Coinbase,"Software Engineer, Blockchain Platform Nodes",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437,官方ATS
-2026-09-22,Coinbase,"Software Engineer, Developer Infrastructure",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839,官方ATS
-2026-09-22,Coinbase,Software Engineer- Money Movement ,Remote - USA,待识别,,金融科技,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946,官方ATS
-2026-09-22,Coinbase,Solutions Architect,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8056065?gh_jid=8056065,官方ATS
-2026-09-22,Coinbase,Solutions Architect,"Hybrid - London, UK",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8096720?gh_jid=8096720,官方ATS
-2026-09-22,Coinbase,"Specialist, CSIRT",Remote - India,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777,官方ATS
-2026-09-22,Coinbase,Tax Operations Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453,官方ATS
-2026-09-22,Coinbase,"Trade Surveillance Associate, Derivatives",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975,官方ATS
-2026-09-22,Kraken,Apply now,,待识别,,其他,,33,否,公司池官方招聘页轮询/Kraken,1,https://jobs.ashbyhq.com/kraken.com?af_js_web=true&af_ss_ver=2_2_0&pid=direct&af_ss_ui=true&landing=/careers&original_landing=eyJ1cmwiOiJodHRwczovL3d3dy5rcmFrZW4uY29tL2NhcmVlcnMiLCJyZWZlcnJlciI6IiJ9&anon_id=79e130dc-4ef2-4358-b7af-02780154f87d,官方页面待详情核验
-2026-09-22,Kraken,Compliance Hub,,待识别,,其他,,33,否,公司池官方招聘页轮询/Kraken,1,https://www.kraken.com/compliance,官方页面待详情核验
-2026-09-22,Kraken,Kraken Careers,,待识别,,其他,,33,否,公司池官方招聘页轮询/Kraken,1,https://www.kraken.com/careers,官方页面待详情核验
-2026-09-22,Kraken,See all open roles,,待识别,,其他,,33,否,公司池官方招聘页轮询/Kraken,1,https://jobs.ashbyhq.com/kraken.com,官方页面待详情核验
-2026-09-22,中国结算,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
-2026-09-22,中国结算,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
-2026-09-22,中国结算,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
-2026-09-22,中国结算,• 2026年青浦区区管企业统一招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260526/383e7d09b67849b79f260c11c80dbc62.html,官方页面待详情核验
-2026-09-22,中国结算,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
-2026-09-22,中国结算,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
-2026-09-22,中国结算,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
-2026-09-22,中国结算,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
-2026-09-22,中国结算,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
-2026-09-22,中国结算,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
-2026-09-22,中国结算,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
-2026-09-22,中国结算,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中国结算,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
-2026-09-22,中银消费金融,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 2026年青浦区区管企业统一招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260526/383e7d09b67849b79f260c11c80dbc62.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
-2026-09-22,中银消费金融,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/中银消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
-2026-09-22,兴业消费金融,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 2026年青浦区区管企业统一招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260526/383e7d09b67849b79f260c11c80dbc62.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
-2026-09-22,兴业消费金融,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/兴业消费金融,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
-2026-09-22,Coinbase,"Forward Deployed Engineer, Compliance [Office of the CTO]",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099,官方ATS
-2026-09-22,Coinbase,"Forward Deployed Engineer, Finance [Office of the CTO]",Remote - USA,待识别,,合规/AML/金融科技/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932,官方ATS
-2026-09-22,Coinbase,"Forward Deployed Engineer, Legal [Office of the CTO]",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884,官方ATS
-2026-09-22,Coinbase,"Group Product Manager, Compliance Agent Experience",Remote - USA,待识别,,合规/AML/产品经理/金融科技,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662,官方ATS
-2026-09-22,Coinbase,"Group Product Manager, Compliance Automation",Remote - USA,待识别,,合规/AML/产品经理/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642,官方ATS
-2026-09-22,Coinbase,"Product Manager II, Workspace and Multi-User",Remote - USA,待识别,,合规/AML/产品经理,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171,官方ATS
-2026-09-22,Coinbase,"Software Engineer, Enterprise Apps",Remote - Brazil,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814,官方ATS
-2026-09-22,Coinbase,"Sr. Systems Analyst, Finance, Enterprise Apps ",Remote - USA,待识别,,合规/AML/数据分析/产品经理,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856,官方ATS
-2026-09-22,Coinbase,Staff Machine Learning Engineer(Platform - Identity),Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486,官方ATS
-2026-09-22,Coinbase,Staff Machine Learning Engineer(Platform - Identity),Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, EAA CX",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Enterprise Apps",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218,官方ATS
-2026-09-22,Coinbase,"Accounting Manager, Lending & Credit Products",Remote - USA,待识别,,合规/AML/金融科技,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645,官方ATS
-2026-09-22,Coinbase,"Accounting Manager, Tokenized Equities",Remote - Abu Dhabi,待识别,,清算/基础设施,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8164862?gh_jid=8164862,官方ATS
-2026-09-22,Coinbase,"Associate Manager, Internal Audit",Remote - UK,待识别,,合规/AML/金融科技,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987,官方ATS
-2026-09-22,Coinbase,"Manager, Derivatives Compliance",Remote - USA,待识别,,清算/基础设施,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8001778?gh_jid=8001778,官方ATS
-2026-09-22,Coinbase,Capacity Planning Lead,"Hybrid - Bangalore, India",待识别,,合规/AML/金融科技/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013889?gh_jid=8013889,官方ATS
-2026-09-22,Coinbase,Head of Product Creative ,Remote - USA,待识别,,合规/AML/产品经理,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7304930?gh_jid=7304930,官方ATS
-2026-09-22,Coinbase,"Senior Analyst, Compliance Technology",Remote - USA,待识别,,合规/AML/数据分析,,22,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221985?gh_jid=8221985,官方ATS
-2026-09-22,Coinbase,"Senior Counsel, Product",Remote - USA,待识别,,合规/AML/产品经理/金融科技,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8069582?gh_jid=8069582,官方ATS
-2026-09-22,Coinbase,"Senior Engineering Manager, Core Automation (Platform)",Remote - USA,待识别,,合规/AML/产品经理/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224,官方ATS
-2026-09-22,Coinbase,"Senior Manager Product Operations, FCM Ops",Remote - USA,待识别,,合规/AML/数据分析,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8110496?gh_jid=8110496,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Platform - IAM",Remote - USA,待识别,,合规/AML/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366,官方ATS
-2026-09-22,Coinbase,Strategic Program Lead,Remote - USA,待识别,,合规/AML/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8083758?gh_jid=8083758,官方ATS
-2026-09-22,Coinbase,Engineering Manager - Platform (FinHub - Financial Intelligence),Remote - USA,待识别,,AI/Agent,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031,官方ATS
-2026-09-22,Coinbase,"Manager, Corporate Programs",Remote - USA,待识别,,AI/Agent,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8069671?gh_jid=8069671,官方ATS
-2026-09-22,Coinbase,Staff Software Engineer (Platform - Identity IDV),Remote - USA,待识别,,合规/AML/金融科技,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Backend (Consumer - Prediction Markets)",Remote - USA,待识别,,清算/基础设施,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997840?gh_jid=7997840,官方ATS
-2026-09-22,Airwallex空中云汇,"Manager, Account Management, SME & Growth, France Sales Sales • Paris EMEA , Paris Paris",,待识别,,其他,,18,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/285f4b89-1eb3-4d30-99f5-3b52ac164353/manager-account-management-sme-growth-france/,官方页面待详情核验
-2026-09-22,Coinbase,FCM Tech Lead,Remote - USA,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154342?gh_jid=8154342,官方ATS
-2026-09-22,Coinbase,"Group Product Manager, Core Infrastructure & Reliability",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785,官方ATS
-2026-09-22,Coinbase,"Group Product Manager, Developer Infrastructure",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607,官方ATS
-2026-09-22,Coinbase,"Product Manager II, Growth - Notifications ",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571,官方ATS
-2026-09-22,Coinbase,SAM Compliance Lead Analyst,Hybrid - Luxembourg,待识别,,合规/AML/金融科技,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8052192?gh_jid=8052192,官方ATS
-2026-09-22,Coinbase,"Senior Counsel, Shareholder Litigation",Remote - USA,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7994338?gh_jid=7994338,官方ATS
-2026-09-22,Coinbase,"Senior Enterprise Product  Marketing Manager, Base",Remote - USA,待识别,,合规/AML,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Finhub",Remote - USA,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162237?gh_jid=8162237,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Finhub",Remote - Canada,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162240?gh_jid=8162240,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Backend - Platform (Core AI Automation)",Remote - USA,待识别,,AI/Agent,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Customer Administration",Remote - India,待识别,,AI/Agent,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Security Platform",Remote - India,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571,官方ATS
-2026-09-22,Coinbase,"Communications Manager, Policy & Public Affairs",Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7746572?gh_jid=7746572,官方ATS
-2026-09-22,Coinbase,Internal Communications Manager,Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911,官方ATS
-2026-09-22,Coinbase,M&A and Accounting Policy Manager,Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8072054?gh_jid=8072054,官方ATS
-2026-09-22,Coinbase,"Manager, Product Communications",Remote - USA,待识别,,金融科技,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160771?gh_jid=8160771,官方ATS
-2026-09-22,Coinbase,"Strategic Finance Manager, Platform",Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8148248?gh_jid=8148248,官方ATS
-2026-09-22,Coinbase,"Engineering Manager, Market Data & Analytics",Remote - USA,待识别,,数据分析/清算/基础设施,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179214?gh_jid=8179214,官方ATS
-2026-09-22,Coinbase,GFCO Program Manager,Remote - USA,待识别,,合规/AML/数据分析,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8070046?gh_jid=8070046,官方ATS
-2026-09-22,Coinbase,Risk Manager - Country & Operational Risk,Remote - UK,待识别,,合规/AML/数据分析,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7774051?gh_jid=7774051,官方ATS
-2026-09-22,Coinbase,"Technical Program Manager, CX Intelligence & AI",Remote - USA,待识别,,合规/AML/数据分析/产品经理,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948,官方ATS
-2026-09-22,Airwallex空中云汇,"Senior Analyst, Regulatory Reporting Ops Operations Operations • Kuala Lumpur APAC , Kuala Lumpur Kuala Lumpur",,待识别,,其他,,0,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/9dbc96e0-64dc-468e-bc70-f3d11bf195c7/senior-analyst-regulatory-reporting-ops/,官方页面待详情核验
-2026-09-22,Coinbase," Staff Infrastructure Engineer, Trading ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144769?gh_jid=8144769,官方ATS
-2026-09-22,Coinbase,"Analyst, Business Controller",Remote - EMEA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7875558?gh_jid=7875558,官方ATS
-2026-09-22,Coinbase,"Associate Manager, Premium & Wealth","Hybrid - London, UK",待识别,,数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8080028?gh_jid=8080028,官方ATS
-2026-09-22,Coinbase,"Business Operations Senior Associate, Institutional",Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7980600?gh_jid=7980600,官方ATS
-2026-09-22,Coinbase,"Compliance, Threat & Risk Assessment Manager",Remote - USA,待识别,,合规/AML/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692,官方ATS
-2026-09-22,Coinbase,Counsel - Financial Services,Remote - UK,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261,官方ATS
-2026-09-22,Coinbase,"Counsel, Commercial",Remote - USA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030594?gh_jid=8030594,官方ATS
-2026-09-22,Coinbase,"Country Director, India",Remote - India,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7606826?gh_jid=7606826,官方ATS
-2026-09-22,Coinbase,"Engineer Manager, HR Applications",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154270?gh_jid=8154270,官方ATS
-2026-09-22,Coinbase,Engineering Manager - Customer Experience AI,Remote - India,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7741187?gh_jid=7741187,官方ATS
-2026-09-22,Coinbase,HR Business Partner,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997879?gh_jid=7997879,官方ATS
-2026-09-22,Coinbase,"Head of Finance, Canada",Remote - Canada,待识别,,金融科技/清算/基础设施,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7993445?gh_jid=7993445,官方ATS
-2026-09-22,Coinbase,Internal Audit IT Manager,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7755116?gh_jid=7755116,官方ATS
-2026-09-22,Coinbase,Internal Audit Manager,Remote - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292,官方ATS
-2026-09-22,Coinbase,"Internal Audit Senior Associate, Operations & Compliance",Remote - USA,待识别,,合规/AML/数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684,官方ATS
-2026-09-22,Coinbase,Litigation Paralegal,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030591?gh_jid=8030591,官方ATS
-2026-09-22,Coinbase,Manager of Compliance Testing and Assurance,Hybrid - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7286062?gh_jid=7286062,官方ATS
-2026-09-22,Coinbase,"Manager, GRC",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8167666?gh_jid=8167666,官方ATS
-2026-09-22,Coinbase,"Manager, WFM CX Operations",Remote - USA,待识别,,金融科技/AI/Agent,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586,官方ATS
-2026-09-22,Coinbase,"Manager, WFM Compliance Operations",Remote - USA,待识别,,金融科技/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161,官方ATS
-2026-09-22,Coinbase,Operational Excellence Senior Program Lead,Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059,官方ATS
-2026-09-22,Coinbase,Operations Senior Associate,Remote - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013718?gh_jid=8013718,官方ATS
-2026-09-22,Coinbase,Principal Recruiter,Remote - Singapore,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071,官方ATS
-2026-09-22,Coinbase,Principal Recruiter,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8050322?gh_jid=8050322,官方ATS
-2026-09-22,Coinbase,"Product Marketing Manager, Prediction Markets",Remote - USA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7982771?gh_jid=7982771,官方ATS
-2026-09-22,Coinbase,"Product Marketing Manager, Prime & Markets",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7572514?gh_jid=7572514,官方ATS
-2026-09-22,Coinbase,Regulatory Compliance Manager ,Remote - Singapore,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8152576?gh_jid=8152576,官方ATS
-2026-09-22,Coinbase,"Senior Accountant, Brokerage and Derivatives","New York City, NY",待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8157661?gh_jid=8157661,官方ATS
-2026-09-22,Coinbase,"Senior Analytics Engineer, GFCO Analytics",Remote - USA,待识别,,合规/AML/数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880,官方ATS
-2026-09-22,Coinbase,"Senior Associate, Business Development",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386,官方ATS
-2026-09-22,Coinbase,"Senior Associate, FCM",Remote - USA,待识别,,数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060577?gh_jid=8060577,官方ATS
-2026-09-22,Coinbase,Senior Business Controller,Remote - USA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8096740?gh_jid=8096740,官方ATS
-2026-09-22,Coinbase,Senior Compliance Associate,Hybrid - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7611263?gh_jid=7611263,官方ATS
-2026-09-22,Coinbase,Senior Data Scientist,Remote - Singapore,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917,官方ATS
-2026-09-22,Coinbase,"Senior Data Scientist, CX Analytics",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8009392?gh_jid=8009392,官方ATS
-2026-09-22,Coinbase,"Senior Data Scientist, Product ",Remote - UK,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668,官方ATS
-2026-09-22,Coinbase,Senior Enterprise Engineer - Salesforce Platform (EAA - STP),Remote - USA,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048,官方ATS
-2026-09-22,Coinbase,Senior IT Automation Engineer,Remote - India,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055,官方ATS
-2026-09-22,Coinbase,Senior IT Automation Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207,官方ATS
-2026-09-22,Coinbase,"Senior Infrastructure Engineer, Trading ",Remote - USA,待识别,,清算/基础设施,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114,官方ATS
-2026-09-22,Coinbase,"Senior Internal Communications Manager, People",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162914?gh_jid=8162914,官方ATS
-2026-09-22,Coinbase,Senior Machine Learning Engineer,Remote - India,待识别,,合规/AML/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592,官方ATS
-2026-09-22,Coinbase,"Senior Machine Learning Engineer, CX Intelligence ",Remote - Brazil,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569,官方ATS
-2026-09-22,Coinbase,Senior Machine Learning Platform Engineer,Remote - USA,待识别,,AI/Agent,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490,官方ATS
-2026-09-22,Coinbase,"Senior Manager, Finance & Strategy",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7948222?gh_jid=7948222,官方ATS
-2026-09-22,Coinbase,"Senior Manager, Institutional Sales",Remote - UAE,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8023815?gh_jid=8023815,官方ATS
-2026-09-22,Coinbase,"Senior Manager, Recruiting",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8051630?gh_jid=8051630,官方ATS
-2026-09-22,Coinbase,"Senior Manager, Security Audit",Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926,官方ATS
-2026-09-22,Coinbase,Senior Market Data Engineer,Remote - USA,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833,官方ATS
-2026-09-22,Coinbase,Senior Network Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179311?gh_jid=8179311,官方ATS
-2026-09-22,Coinbase,Senior Onchain Investigator,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8051513?gh_jid=8051513,官方ATS
-2026-09-22,Coinbase,"Senior Performance Marketing Manager, Global Paid Social & Mobile UA",Remote - USA,待识别,,合规/AML/数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8192485?gh_jid=8192485,官方ATS
-2026-09-22,Coinbase,"Senior Product Designer, Coinbase One",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114474?gh_jid=8114474,官方ATS
-2026-09-22,Coinbase,"Senior Product Manager, Help Center (CX Automation)",Remote - India,待识别,,合规/AML/数据分析/产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208,官方ATS
-2026-09-22,Coinbase,"Senior Product Marketing Manager, Trading ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8077090?gh_jid=8077090,官方ATS
-2026-09-22,Coinbase,Senior Recruiter,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8064788?gh_jid=8064788,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer,Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer (EAA),Remote - USA,待识别,,合规/AML/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer (Platform - Access & Authorization),Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer - Data Platform ,Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer - Frontend - Coinbase Card team,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer - Trading,Remote - Singapore,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7866674?gh_jid=7866674,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Agent Verification ",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8174949?gh_jid=8174949,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Backend (Consumer - Growth Foundations)",Remote - Canada,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8092651?gh_jid=8092651,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Backend (Consumer - Risk)",Remote - Canada,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7930686?gh_jid=7930686,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Core AI Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Core Infra Systems",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Core Reliability",Remote - Canada,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Data Engineering Platform",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Developer Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Frontend (Consumer - Payments)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Frontend (Platform - Identity)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Simple Trade Experience",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569,官方ATS
-2026-09-22,Coinbase,"Senior Software Engineer, Stablecoins",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8104873?gh_jid=8104873,官方ATS
-2026-09-22,Coinbase,Senior Software Engineer- Blockchain Network,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196,官方ATS
-2026-09-22,Coinbase,Senior Sourcing Analyst,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8017697?gh_jid=8017697,官方ATS
-2026-09-22,Coinbase,Senior Staff Software Engineer - Blockchain Platform,Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7366208?gh_jid=7366208,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Core Automation",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Data Platform",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Institutional Exchange",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Payments",Remote - Canada,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060842?gh_jid=8060842,官方ATS
-2026-09-22,Coinbase,"Senior Staff Software Engineer, Payments",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8056068?gh_jid=8056068,官方ATS
-2026-09-22,Coinbase,Senior Strategic Program Lead,Remote - USA,待识别,,合规/AML/数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8198065?gh_jid=8198065,官方ATS
-2026-09-22,Coinbase,Senior Talent Program Manager,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8126484?gh_jid=8126484,官方ATS
-2026-09-22,Coinbase,Senior Threat Intelligence Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803,官方ATS
-2026-09-22,Coinbase,"Staff Data Engineer, Market Data",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836,官方ATS
-2026-09-22,Coinbase,Staff Software Engineer,Remote - Israel,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650,官方ATS
-2026-09-22,Coinbase,Staff Software Engineer (Platform - Access & Authorization),Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Compute Platform (Routing)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Core AI Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Developer Infrastructure ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Developer Infrastructure (Test Infrastructure)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Frontend (Consumer - Advanced Trading)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer, Solana Staking Protocol ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298,官方ATS
-2026-09-22,Coinbase,"Staff Software Engineer- Wallets, Liquidity & Bridging",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831,官方ATS
-2026-09-22,Coinbase,"Staff Technical Program Manager, CX Agent Experience",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8047657?gh_jid=8047657,官方ATS
-2026-09-22,Coinbase,"Technical Program Manager, Knowledge Systems",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013892?gh_jid=8013892,官方ATS
+2026-09-23,上海农商银行,2027届暑期实习生招聘,上海,暑期实习/留用,2027届,金融科技/风控策略,,98,否,上海国资委,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html,官方公告；报名是否仍开放待核验
+2026-09-23,上海建科咨询集团,暑期实习暨2027届秋招提前批次,上海,提前批,2027届,数据分析/产品经理,,82,否,上海国资委,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html,官方公告；具体岗位与当前截止状态待核验
+2026-09-23,Airwallex空中云汇,"Chief of Staff, CN Strategy and Operations Strategy and Operations • Shanghai APAC , Shanghai Shanghai",上海,待识别,,运营策略,,80,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/7c5f487d-3f78-4673-a509-d74b691f34d8/chief-of-staff-cn/,官方页面待详情核验
+2026-09-23,拼多多集团,合规运营管培生（2027届提前批）,上海,提前批,2027届,合规/AML,2026-08-23,78,否,PDD官方校招入口（公开公告核验）,2,https://careers.pddglobalhr.com/campus,批次和截止日期已核验；具体JD回官网确认
+2026-09-23,上海数据集团,喜报！上海大数据股份斩获2026“数据要素×”大赛上海赛区多项荣誉 08-31,上海,待识别,,其他,,68,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/newsdetail?id=139,官方页面待详情核验
+2026-09-23,上海数据集团,数智守“沪” | 上海大数据股份推动 “视觉中枢” 平台提级提能，全面支撑台风 “白海豚” 防御工作 08-17,上海,待识别,,其他,,68,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/newsdetail?id=138,官方页面待详情核验
+2026-09-23,上海数据集团,集团要闻 | 数据集团召开党委（扩大）会议，总结树立和践行正确政绩观学习教育，研究建立长效机制 9月11日下午，数据集团召开党委（扩大）会议，深入学习贯彻习近平总书记重要指示和中央、市委党的建设工作领导小组会议以及市国资委党委（扩大）会精神，总结数据集团树立和践行正确政绩观学习教育，研究部署巩固拓展学习教育成果、建立树立和践行正确政绩观长效机制工作。集团党委书记、董事长吴建雄主持会议并讲话。集团领导班子成员，首席技术官、总审计师，各部门负责同志参加会议。会议指出，本次学习教育坚持不分批次、不划阶段，一体推进学习研讨、问题查摆、整改整治、建章立制、开门教育五个环节，实现理论铸魂夯基、查摆见底到边、整改促动发展、制度迭代完善、开门凝聚合力，取得阶段性成效，并形成“五个必须”经验启示，要长期坚持、一以贯之。会议强调，树立和践行正确政绩观是长期任务，学习教育不是终点而是新起点。全体党员干部要贯通学习习近平总书记重要指示和上级工作要求，把政绩观建设融入国家数据要素战略、上海城市数字化转型和集团“十五五”规划实施一体谋划，推动正确政绩观从阶段性学习转变为常态化履职准则。会议要求，一是持续深化理论武装，把政绩观学习纳入中心组学习和干部培训必修课，重点抓好“一把手”、新提拔干部、年轻干部、关键岗位干部教育；二是坚持闭环跟踪检视，深化问题整改和专项治理，用好“三个区分开来”激励干部敢闯敢试；三是聚焦主责主业攻坚，做强国家区块链网络上海枢纽、航贸数字化平台重大项目，加快AI+数据融合创新，培育新质生产力；四是健全制度机制，深化制度“废改立”，优化差异化考核，严格“三重一大”决策，构建协同大监督格局。,上海,待识别,,其他,,68,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/newsdetail?id=141,官方页面待详情核验
+2026-09-23,拼多多集团,数据分析师（2027届提前批）,上海,提前批,2027届,数据分析,2026-08-23,68,否,PDD官方校招入口（公开公告核验）,2,https://careers.pddglobalhr.com/campus,批次和截止日期已核验；具体JD回官网确认
+2026-09-23,Coinbase,Analytics Engineer Intern,"Hybrid - San Francisco, CA",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471,官方ATS
+2026-09-23,Coinbase,Business Controller Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366,官方ATS
+2026-09-23,Coinbase,Complaints Analyst II,"Manila, Philippines",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7151562?gh_jid=7151562,官方ATS
+2026-09-23,Coinbase,Complaints Analyst II,"Manila, Philippines",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777,官方ATS
+2026-09-23,Coinbase,Concierge Specialist IV,Hybrid - Singapore,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498,官方ATS
+2026-09-23,Coinbase,Concierge Specialist IV,"Hybrid - London, UK",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308,官方ATS
+2026-09-23,Coinbase,Concierge Specialist IV,Hybrid - Singapore,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501,官方ATS
+2026-09-23,Coinbase,Concierge Specialist IV,"Hybrid - London, UK",待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253,官方ATS
+2026-09-23,Coinbase,Employee and Workplace Experience Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429,官方ATS
+2026-09-23,Coinbase,Internal Audit Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432,官方ATS
+2026-09-23,Coinbase,Machine Learning Engineer,Remote - India,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187,官方ATS
+2026-09-23,Coinbase,Payment Risk Intern,"Hybrid - New York, NY",待识别,,风控策略/合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447,官方ATS
+2026-09-23,Coinbase,People Analytics Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517,官方ATS
+2026-09-23,Coinbase,Prime Sales Trader,Remote - USA,待识别,,产品经理/清算/基础设施,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951,官方ATS
+2026-09-23,Coinbase,Product Design Intern,"Hybrid - San Francisco, CA",待识别,,合规/AML/产品经理,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339,官方ATS
+2026-09-23,Coinbase,Risk & Monitoring Analyst III,Remote - UK,待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696,官方ATS
+2026-09-23,Coinbase,Risk & Monitoring Analyst IV,"Dublin, Ireland",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686,官方ATS
+2026-09-23,Coinbase,Risk & Monitoring Analyst IV,Remote - UK,待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976,官方ATS
+2026-09-23,Coinbase,Software Engineer,"Charlotte, NC",待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605,官方ATS
+2026-09-23,Coinbase,"Software Engineer, EAA ",Remote - Brazil,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066,官方ATS
+2026-09-23,Coinbase,Staff Product Designer (Experience & Engagement),Remote - USA,待识别,,合规/AML/金融科技/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8014564?gh_jid=8014564,官方ATS
+2026-09-23,Coinbase,"Supervisor, Customer Success Team",Remote - Cyprus,待识别,,合规/AML/AI/Agent,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8082829?gh_jid=8082829,官方ATS
+2026-09-23,Coinbase,Tax Information Reporting Intern,"Hybrid - New York, NY",待识别,,合规/AML/数据分析,,67,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241,官方ATS
+2026-09-23,• 浦发银行,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,上海,暑期实习/留用,,其他,,66,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
+2026-09-23,PayerMax,Self-Service Settlement,,待识别,,清算/基础设施,,65,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#backstage,官方页面待详情核验
+2026-09-23,连连数字/连连国际,合规资质,,待识别,,合规/AML,,65,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/company/compliance,官方页面待详情核验
+2026-09-23,字节跳动,AI产品经理早鸟通道（2027届）,上海,提前批,2027届,产品经理,2026-08-02,64,否,公开招聘线索,3,https://www.chaojijianli.com/xiaozhao/autumn-recruit-ai-early-batch-11585-6f03a5/,聚合线索；必须回字节校招官网核验
+2026-09-23,>国企,>国企招聘,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
+2026-09-23,• 2026年嘉定区区属国有企业秋季专场招聘启动,• 2026年嘉定区区属国有企业秋季专场招聘启动,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
+2026-09-23,• 2026年奉贤区区属国有企业招聘公告,• 2026年奉贤区区属国有企业招聘公告,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
+2026-09-23,• 上实集团,• 上实集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
+2026-09-23,• 上汽集团,• 上汽集团2027届全球校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
+2026-09-23,• 上海市闵行区,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
+2026-09-23,• 上海建工,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
+2026-09-23,• 华谊集团,• 华谊集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
+2026-09-23,• 国泰海通,• 国泰海通2027届秋季校园招聘启动,上海,待识别,2027届,其他,,58,是,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/75cff8f7a52247a0bb2ef5f67db99e15.html,官方页面待详情核验
+2026-09-23,• 浦发银行,• 浦发银行2027年度全球校园招聘启动,上海,待识别,,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
+2026-09-23,• 申能股份,• 申能股份2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
+2026-09-23,• 申能集团,• 申能集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
+2026-09-23,• 百联集团,• 百联集团2027届校园招聘正式启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
+2026-09-23,• 锦江国际集团,• 锦江国际集团2027届校园招聘启动,上海,待识别,2027届,其他,,58,否,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 上海银行2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html,官方页面待详情核验
+2026-09-23,上海城投,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
+2026-09-23,上海城投,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
+2026-09-23,上海城投,• 上海银行2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html,官方页面待详情核验
+2026-09-23,上海银行,• 上海银行2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,上海国资委国企招聘,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html,官方页面待详情核验
+2026-09-23,浦银理财,• 上海市闵行区2026年区管国企公开招聘公告（第二批）,上海,待识别,,其他,,58,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260724/90c589d993c84a1f8a0c1e4c5392d0f2.html,官方页面待详情核验
+2026-09-23,浦银理财,• 上海建工2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html,官方页面待详情核验
+2026-09-23,浦银理财,• 上海银行2027届校园招聘启动,上海,待识别,2027届,其他,,58,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Founding GTM, T:0 Strategy and Operations Strategy and Operations • San Francisco Americas , San Francisco San Francisco",,待识别,,运营策略,,55,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/fc4657db-1629-4496-b3a6-3c1fff4f1f67/founding-gtm-t0/,官方页面待详情核验
+2026-09-23,Coinbase,"Accountant, Cyprus",Remote - Cyprus,待识别,,合规/AML/金融科技,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8053751?gh_jid=8053751,官方ATS
+2026-09-23,Coinbase,Credit Risk Analyst,Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356,官方ATS
+2026-09-23,Coinbase,Institutional Operations Intern,"Hybrid - New York, NY",待识别,,合规/AML,,55,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569,官方ATS
+2026-09-23,Coinbase,Real Estate & Builds Intern,"Hybrid - New York, NY",待识别,,合规/AML,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507,官方ATS
+2026-09-23,Coinbase,SAM Analyst III,Remote - USA,待识别,,合规/AML/金融科技,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147700?gh_jid=8147700,官方ATS
+2026-09-23,Coinbase,"Software Engineer, CDP - Payment Acceptance ",Remote - USA,待识别,,合规/AML/清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730,官方ATS
+2026-09-23,Coinbase,"Specialist, Market Operations",Remote - UK,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267,官方ATS
+2026-09-23,Coinbase,"Specialist, Market Operations",Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259,官方ATS
+2026-09-23,Coinbase,"Specialist, Market Operations",Remote - Singapore,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264,官方ATS
+2026-09-23,Coinbase,"Sr. Staff Technical Architect, Unified Trading",Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772,官方ATS
+2026-09-23,Coinbase,"Sr. Staff Technical Risk Architect, Unified Trading",Remote - USA,待识别,,清算/基础设施,,55,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776,官方ATS
+2026-09-23,Wise,AML Operations,,待识别,,合规/AML,,55,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/aml-operations,官方页面待详情核验
+2026-09-23,Wise,Deputy BSA/AML Officer,,待识别,,合规/AML,,55,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/deputy-bsa-aml-officer-in-new-york-jid-4088,官方页面待详情核验
+2026-09-23,Wise,Inside Wise: Building Financial Infrastructure in Japan,,待识别,,清算/基础设施,,55,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-8/inside-wise-building-financial-infrastructure-in-japan,官方页面待详情核验
+2026-09-23,Wise,KYC Operations Associate Analyst - Regional,,待识别,,合规/AML,,55,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/kyc-operations-associate-analyst-regional-in-hyderabad-jid-4200,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Associate GTM Partnerships Manager,香港,日常招聘,,运营策略,,50,否,Airwallex官方职位,1,https://careers.airwallex.com/job/eb5e2e34-538f-4cad-a1b8-82c260c2ff6f/associate-gtm-partnerships-manager/,官方职位页可访问；非明确校招
+2026-09-23,Airwallex空中云汇,Transaction Monitoring Senior Analyst,上海,日常招聘,,合规/AML,,45,否,Airwallex官方职位,1,https://careers.airwallex.com/job/974fc2b2-a016-443a-a6f0-d351fae48cc7/transaction-monitoring-senior-analyst/,官方职位页可访问；高级岗，不按应届岗推荐
+2026-09-23,Coinbase,Accounting Intern,"Hybrid - New York, NY",待识别,,数据分析,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991,官方ATS
+2026-09-23,Coinbase,Associate Product Manager Intern,"Hybrid - San Francisco, CA",待识别,,产品经理/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322,官方ATS
+2026-09-23,Coinbase,Data Engineer Intern,"Hybrid - San Francisco, CA",待识别,,数据分析/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459,官方ATS
+2026-09-23,Coinbase,Data Science Intern,"Hybrid - San Francisco, CA",待识别,,数据分析/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462,官方ATS
+2026-09-23,Coinbase,Derivative Sales Analyst,Remote - UK,待识别,,数据分析,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444,官方ATS
+2026-09-23,Coinbase,Internal Audit Analytics Intern,"Hybrid - New York, NY",待识别,,数据分析,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238,官方ATS
+2026-09-23,Coinbase,Machine Learning Engineer Intern,"Hybrid - San Francisco, CA",待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441,官方ATS
+2026-09-23,Coinbase,"Machine Learning Engineer, CX Intelligence",Remote - Brazil,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260,官方ATS
+2026-09-23,Coinbase,Payments Risk Analyst I,"Manila, Philippines",待识别,,数据分析/金融科技,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147663?gh_jid=8147663,官方ATS
+2026-09-23,Coinbase,Payments Risk Analyst II,Remote - USA,待识别,,数据分析/金融科技,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7984814?gh_jid=7984814,官方ATS
+2026-09-23,Coinbase,Product Manager (HR Technology) Intern,"Hybrid - New York, NY",待识别,,产品经理/AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504,官方ATS
+2026-09-23,Coinbase,Product Security Engineer,Remote - Canada,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389,官方ATS
+2026-09-23,Coinbase,Software Engineer Intern,"Hybrid - San Francisco, CA",待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315,官方ATS
+2026-09-23,Coinbase,"Software Engineer, Security Platform",Remote - India,待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441,官方ATS
+2026-09-23,Coinbase,Strategic Finance Intern,"Hybrid - New York, NY",待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438,官方ATS
+2026-09-23,Coinbase,Threat Intelligence Platform Engineer,Remote - USA,待识别,,AI/Agent,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619,官方ATS
+2026-09-23,Coinbase,User Research Intern,"Hybrid - San Francisco, CA",待识别,,产品经理,,45,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360,官方ATS
+2026-09-23,Oceanpayment钱海,Business Product Manager Product Team,,待识别,,产品经理,,45,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/business-product-manager,官方页面待详情核验
+2026-09-23,Wise,Analytics,,待识别,,数据分析,,45,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/analytics,官方页面待详情核验
+2026-09-23,Wise,Analytics,,待识别,,数据分析,,45,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/analytics,官方页面待详情核验
+2026-09-23,Wise,Early Careers,,提前批,,其他,,45,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/early-careers,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Benefits,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/what-we-offer/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Home,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,In the news,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/in-the-news/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Jobs,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Life at Airwallex,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/blog/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Page 2,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=2,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Page 3,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=3,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Page 76,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/jobs/?e-page-9075d2b=76,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,Sales,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/sales-careers-at-airwallex/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Software Engineer, Ecosystem Engineering Engineering • Singapore APAC , Singapore Singapore",,待识别,,其他,,43,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/5641f83e-4946-48cc-a6e8-e42128b5e2f4/software-engineer-ecosystem/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Technical Support Engineer Operations Operations • London EMEA , London London",,待识别,,其他,,43,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/c311df66-316a-457f-b385-34b80d8b156f/technical-support-engineer/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,verify an Airwallex job or recruiter,,待识别,,其他,,43,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/blog/verify-airwallex-job/,官方页面待详情核验
+2026-09-23,PayerMax,Anti-Fraud Solutions,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#anti-frand-solutions,官方页面待详情核验
+2026-09-23,PayerMax,Chargeback Solutions,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#chargeback-solutions,官方页面待详情核验
+2026-09-23,PayerMax,Collection Scenarios,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#capability,官方页面待详情核验
+2026-09-23,PayerMax,Convenient Transfers,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#transfer,官方页面待详情核验
+2026-09-23,PayerMax,Customized Accounts,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#customization,官方页面待详情核验
+2026-09-23,PayerMax,Efficient Exchange,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#banner,官方页面待详情核验
+2026-09-23,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout,官方页面待详情核验
+2026-09-23,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection,官方页面待详情核验
+2026-09-23,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management,官方页面待详情核验
+2026-09-23,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex,官方页面待详情核验
+2026-09-23,PayerMax,Explore More,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management,官方页面待详情核验
+2026-09-23,PayerMax,Fast Integration,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#integration,官方页面待详情核验
+2026-09-23,PayerMax,Flexible Setting,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/risk-management#flexible-setting,官方页面待详情核验
+2026-09-23,PayerMax,Fund Security,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-collection#experience,官方页面待详情核验
+2026-09-23,PayerMax,Long-Term FX management,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#long-term,官方页面待详情核验
+2026-09-23,PayerMax,Multi-Country Tax Payment,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/fund-management#service,官方页面待详情核验
+2026-09-23,PayerMax,Payment Methods,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#capability,官方页面待详情核验
+2026-09-23,PayerMax,Payout Flow,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payout-flow,官方页面待详情核验
+2026-09-23,PayerMax,Payout Methods,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payment-methods,官方页面待详情核验
+2026-09-23,PayerMax,Payout Scenarios,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-payout#payout-scenarios,官方页面待详情核验
+2026-09-23,PayerMax,Product Docs,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://docs-v2.payermax.com/en/,官方页面待详情核验
+2026-09-23,PayerMax,Products,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring,官方页面待详情核验
+2026-09-23,PayerMax,Short-Term FX management,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/forex#short-term,官方页面待详情核验
+2026-09-23,PayerMax,Transaction Optimization,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://www.payermax.com/products/global-acquiring#optimization,官方页面待详情核验
+2026-09-23,PayerMax,View Jobs,,待识别,,其他,,43,否,公司池官方招聘页轮询/PayerMax,1,https://payermax.jobs.feishu.cn/958616,官方页面待详情核验
+2026-09-23,上海数据集团,使用条款,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/law,官方页面待详情核验
+2026-09-23,上海数据集团,公司介绍,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/Public/aboutcompany.html,官方页面待详情核验
+2026-09-23,上海数据集团,公司介绍,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/aboutus,官方页面待详情核验
+2026-09-23,上海数据集团,公开信息,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/tender,官方页面待详情核验
+2026-09-23,上海数据集团,加入我们,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/joinus,官方页面待详情核验
+2026-09-23,上海数据集团,合作伙伴,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/friends,官方页面待详情核验
+2026-09-23,上海数据集团,客户留言,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/contact#so2,官方页面待详情核验
+2026-09-23,上海数据集团,最新动态,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/news,官方页面待详情核验
+2026-09-23,上海数据集团,联系交流,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/contact,官方页面待详情核验
+2026-09-23,上海数据集团,联系方式,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/contact#so1,官方页面待详情核验
+2026-09-23,上海数据集团,集团要闻丨数据集团党委书记、董事长吴建雄赴所属企业调研 09-15,,待识别,,其他,,43,否,公司池官方招聘页轮询/上海数据集团,1,https://www.shdata.com/PC/App/newsdetail?id=140,官方页面待详情核验
+2026-09-23,寻汇SUNRATE,Careers,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://www.sunrate.com/careers/,官方页面待详情核验
+2026-09-23,寻汇SUNRATE,Global Payment,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://www.sunrate.com/careers/###,官方页面待详情核验
+2026-09-23,寻汇SUNRATE,See 120+ open roles,,待识别,,其他,,43,否,SUNRATE招聘官网,1,https://careers.sunrate.com,官方页面待详情核验
+2026-09-23,连连数字/连连国际,了解更多,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/vcc,官方页面待详情核验
+2026-09-23,连连数字/连连国际,产品文档,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/docs/products,官方页面待详情核验
+2026-09-23,连连数字/连连国际,全球付款,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/payout,官方页面待详情核验
+2026-09-23,连连数字/连连国际,全球收单,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/acquiring,官方页面待详情核验
+2026-09-23,连连数字/连连国际,全球收款,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/receiving,官方页面待详情核验
+2026-09-23,连连数字/连连国际,全球汇兑,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/star_fx,官方页面待详情核验
+2026-09-23,连连数字/连连国际,全球领跑 数百电商平台开店直通,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/store_opening,官方页面待详情核验
+2026-09-23,连连数字/连连国际,出口退税 高效出口退税方案,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/tax_rebate,官方页面待详情核验
+2026-09-23,连连数字/连连国际,出海职连 跨境就业求职信息平台,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/cross-career-link,官方页面待详情核验
+2026-09-23,连连数字/连连国际,商家信心指数,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/confidence_index,官方页面待详情核验
+2026-09-23,连连数字/连连国际,融资服务平台 0 抵押纯信用融资,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/lending,官方页面待详情核验
+2026-09-23,连连数字/连连国际,跨境直采 1688、JD等优质货源,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/looperbuy,官方页面待详情核验
+2026-09-23,连连数字/连连国际,银行假期日历,,待识别,,其他,,43,否,公司池官方招聘页轮询/连连数字/连连国际,1,https://global.lianlianpay.com/products/finance_calendar,官方页面待详情核验
+2026-09-23,Coinbase,"Accounting Manager, GL Operations & Intercompany",Remote - USA,待识别,,数据分析/金融科技/清算/基础设施,,42,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264,官方ATS
+2026-09-23,Coinbase,"Accounting Manager, GL Operations & Intercompany",Remote - Canada,待识别,,数据分析/金融科技/清算/基础设施,,42,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885,官方ATS
+2026-09-23,Coinbase,Sales Intern,"Hybrid - New York, NY",秋招,,其他,,41,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551,官方ATS
+2026-09-23,上海国有资本投资,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
+2026-09-23,上海城投,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
+2026-09-23,浦银理财,• 浦发银行2026年“Call浦新星”暑期实习生计划启动,,暑期实习/留用,,其他,,41,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260624/0409b546bf604e9089c55ca087847d27.html,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Senior Analyst, Customer Support, GC",上海,日常招聘,,运营策略,,35,否,Airwallex官方职位,1,https://careers.airwallex.com/jobs/,官方职位列表已核验；详情待打开
+2026-09-23,Coinbase,Accelerations Programs Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363,官方ATS
+2026-09-23,Coinbase,"Analyst, Privacy",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175,官方ATS
+2026-09-23,Coinbase,Chief of Staff,Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316,官方ATS
+2026-09-23,Coinbase,Credit Risk Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369,官方ATS
+2026-09-23,Coinbase,Crypto Inventory Operations Intern,"Hybrid - New York, NY",待识别,,金融科技,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435,官方ATS
+2026-09-23,Coinbase,Customer Support Specialist II,"Manila, Philippines",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160097?gh_jid=8160097,官方ATS
+2026-09-23,Coinbase,Learning & Development Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514,官方ATS
+2026-09-23,Coinbase,"Legal Ops Associate, OC Management",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321,官方ATS
+2026-09-23,Coinbase,Software Engineer,Remote - Canada,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374,官方ATS
+2026-09-23,Coinbase,"Software Engineer, Blockchain Platform Nodes",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437,官方ATS
+2026-09-23,Coinbase,"Software Engineer, Developer Infrastructure",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839,官方ATS
+2026-09-23,Coinbase,Software Engineer- Money Movement ,Remote - USA,待识别,,金融科技,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946,官方ATS
+2026-09-23,Coinbase,Solutions Architect,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8056065?gh_jid=8056065,官方ATS
+2026-09-23,Coinbase,Solutions Architect,"Hybrid - London, UK",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8096720?gh_jid=8096720,官方ATS
+2026-09-23,Coinbase,"Specialist, CSIRT",Remote - India,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777,官方ATS
+2026-09-23,Coinbase,Tax Operations Intern,"Hybrid - New York, NY",待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453,官方ATS
+2026-09-23,Coinbase,"Trade Surveillance Associate, Derivatives",Remote - USA,待识别,,其他,,33,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975,官方ATS
+2026-09-23,Oceanpayment钱海,Careers,,待识别,,其他,,33,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/careers,官方页面待详情核验
+2026-09-23,Oceanpayment钱海,Risk&Fraud,,待识别,,其他,,33,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/services-2/risk-management,官方页面待详情核验
+2026-09-23,Oceanpayment钱海,View All Open Positions,,待识别,,其他,,33,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/job-list,官方页面待详情核验
+2026-09-23,Wise,Application process,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/interviews-and-application-process?nav=97adff47-e3ae-4172-884b-08dc3949b94e,官方页面待详情核验
+2026-09-23,Wise,Apply,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/step-1-apply?nav=73ddac67-b344-4806-8848-08dc3949b94e,官方页面待详情核验
+2026-09-23,Wise,Apprenticeships,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/wisestart-apprenticeship-program,官方页面待详情核验
+2026-09-23,Wise,Backend Pair Programming Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/backend-pair-programming-interviews,官方页面待详情核验
+2026-09-23,Wise,Backend System Design Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/backend-system-design-interviews,官方页面待详情核验
+2026-09-23,Wise,Banking & Expansion,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/banking-and-expansion,官方页面待详情核验
+2026-09-23,Wise,Behind the screens: how Wise brought the FIFA World Cupâ¢ to your wallet,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-8/behind-the-screens-how-wise-brought-the-fifa-world-cup-to,官方页面待详情核验
+2026-09-23,Wise,Blog,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog,官方页面待详情核验
+2026-09-23,Wise,Blogs,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts,官方页面待详情核验
+2026-09-23,Wise,Budapest,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/budapest,官方页面待详情核验
+2026-09-23,Wise,Business Development,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/wise-platform,官方页面待详情核验
+2026-09-23,Wise,Communications,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/communications,官方页面待详情核验
+2026-09-23,Wise,Comparison Specialist,,待识别,,其他,,33,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/comparison-specialist-in-tallinn-jid-4199,官方页面待详情核验
+2026-09-23,Wise,Compliance,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/compliance,官方页面待详情核验
+2026-09-23,Wise,Customer Support,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/customer-support,官方页面待详情核验
+2026-09-23,Wise,Customer Support,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/customer-support,官方页面待详情核验
+2026-09-23,Wise,Design,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/design,官方页面待详情核验
+2026-09-23,Wise,"Diversity, equity and inclusion",,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/diversity-equity-and-inclusion,官方页面待详情核验
+2026-09-23,Wise,Engineering,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/engineering,官方页面待详情核验
+2026-09-23,Wise,Engineering,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/engineering,官方页面待详情核验
+2026-09-23,Wise,Engineering Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/engineering-interviews,官方页面待详情核验
+2026-09-23,Wise,Engineering Product Round Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/eng-product-round-interviews,官方页面待详情核验
+2026-09-23,Wise,Finance,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/finance,官方页面待详情核验
+2026-09-23,Wise,Finance,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/finance,官方页面待详情核验
+2026-09-23,Wise,Flexible working,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/flexible-working,官方页面待详情核验
+2026-09-23,Wise,Front End Pair Programming Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/front-end-pair-programming,官方页面待详情核验
+2026-09-23,Wise,Front End System Design Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/front-end-system-design,官方页面待详情核验
+2026-09-23,Wise,Government Relations,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/government-relations,官方页面待详情核验
+2026-09-23,Wise,Graduate Software Engineer,,待识别,,其他,,33,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/graduate-software-engineer-in-austin-jid-4197,官方页面待详情核验
+2026-09-23,Wise,How we work,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/how-we-work,官方页面待详情核验
+2026-09-23,Wise,In the news,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/in-the-news,官方页面待详情核验
+2026-09-23,Wise,Inside the Wise Product Academy: Different Paths into Product Management (Part 1),,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-9/inside-the-wise-product-academy-different-paths-into-produc,官方页面待详情核验
+2026-09-23,Wise,Internal Audit,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/internal-audit,官方页面待详情核验
+2026-09-23,Wise,Interview,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/step-2-interview?nav=afef169f-d0d5-4cfa-c7ec-08dc392ba450,官方页面待详情核验
+2026-09-23,Wise,JUMP TO CONTENT,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/#main-site-main-content,官方页面待详情核验
+2026-09-23,Wise,Japan,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/japan,官方页面待详情核验
+2026-09-23,Wise,Legal,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/legal,官方页面待详情核验
+2026-09-23,Wise,Life at Wise,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/life-at-wise,官方页面待详情核验
+2026-09-23,Wise,London,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/london,官方页面待详情核验
+2026-09-23,Wise,Marketing,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/marketing,官方页面待详情核验
+2026-09-23,Wise,Marketing,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/marketing,官方页面待详情核验
+2026-09-23,Wise,Moving Upstream: How Wise is eliminating customer friction at the source,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-7/moving-upstream-how-wise-is-eliminating-customer-friction-a,官方页面待详情核验
+2026-09-23,Wise,Offer,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/step-3-offer?nav=83a1f03e-3939-404c-884a-08dc3949b94e,官方页面待详情核验
+2026-09-23,Wise,Operations,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/operations,官方页面待详情核验
+2026-09-23,Wise,Our locations,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-locations,官方页面待详情核验
+2026-09-23,Wise,Our mission,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-mission,官方页面待详情核验
+2026-09-23,Wise,Our partnerships,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-partnerships,官方页面待详情核验
+2026-09-23,Wise,Our story,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-story,官方页面待详情核验
+2026-09-23,Wise,Our teams,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-teams,官方页面待详情核验
+2026-09-23,Wise,Our values,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/our-values,官方页面待详情核验
+2026-09-23,Wise,Our work,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/our-work,官方页面待详情核验
+2026-09-23,Wise,Our work,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/our-work,官方页面待详情核验
+2026-09-23,Wise,Payment Operations,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/payment-operations,官方页面待详情核验
+2026-09-23,Wise,People,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/people,官方页面待详情核验
+2026-09-23,Wise,People profile,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/people-profile,官方页面待详情核验
+2026-09-23,Wise,Product,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/product,官方页面待详情核验
+2026-09-23,Wise,Product,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/product,官方页面待详情核验
+2026-09-23,Wise,Product Academy,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/the-product-academy,官方页面待详情核验
+2026-09-23,Wise,Product Management Interviews,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/product-management-interviews,官方页面待详情核验
+2026-09-23,Wise,Programa de Aprendizagem WiseStart,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/programa-de-aprendizagem-wisestart,官方页面待详情核验
+2026-09-23,Wise,Programs & applications,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/early-careers-programs,官方页面待详情核验
+2026-09-23,Wise,Programs and applications,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/wisestart-programs,官方页面待详情核验
+2026-09-23,Wise,Scaling Internal Audit at Wise,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-8/scaling-internal-audit-at-wise,官方页面待详情核验
+2026-09-23,Wise,Scholarships,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/scholarships,官方页面待详情核验
+2026-09-23,Wise,Search roles,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/jobs,官方页面待详情核验
+2026-09-23,Wise,Singapore,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/singapore,官方页面待详情核验
+2026-09-23,Wise,Tallinn,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/tallinn,官方页面待详情核验
+2026-09-23,Wise,What we do,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/what-we-do,官方页面待详情核验
+2026-09-23,Wise,What we offer,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/what-we-offer,官方页面待详情核验
+2026-09-23,Wise,Wise Platform,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/wise-platform,官方页面待详情核验
+2026-09-23,Wise,WiseStart Overview,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/early-careers,官方页面待详情核验
+2026-09-23,Wise,WiseWomenCode,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/wise-women-code,官方页面待详情核验
+2026-09-23,Wise,global,,待识别,,其他,,33,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/posts/tags/global,官方页面待详情核验
+2026-09-23,上海国有资本投资,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 国泰海通2027届秋季校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/75cff8f7a52247a0bb2ef5f67db99e15.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
+2026-09-23,上海国有资本投资,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海国有资本投资,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
+2026-09-23,上海城投,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
+2026-09-23,上海城投,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
+2026-09-23,上海城投,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
+2026-09-23,上海城投,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
+2026-09-23,上海城投,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
+2026-09-23,上海城投,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
+2026-09-23,上海城投,• 国泰海通2027届秋季校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/75cff8f7a52247a0bb2ef5f67db99e15.html,官方页面待详情核验
+2026-09-23,上海城投,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
+2026-09-23,上海城投,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
+2026-09-23,上海城投,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
+2026-09-23,上海城投,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
+2026-09-23,上海城投,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/上海城投,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
+2026-09-23,浦银理财,>国企招聘,,待识别,,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html,官方页面待详情核验
+2026-09-23,浦银理财,• 2026年嘉定区区属国有企业秋季专场招聘启动,,待识别,,其他,,33,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260918/c17739aacade4c70977b551eef455c81.html,官方页面待详情核验
+2026-09-23,浦银理财,• 2026年奉贤区区属国有企业招聘公告,,待识别,,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260609/bf16423cf48b4defa9b1c82b0b338804.html,官方页面待详情核验
+2026-09-23,浦银理财,• 上实集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/d619a4aeec8a4e898b0d9cb87ec2a5fb.html,官方页面待详情核验
+2026-09-23,浦银理财,• 上汽集团2027届全球校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html,官方页面待详情核验
+2026-09-23,浦银理财,• 华谊集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260903/a395e36ff1094b42ada2d2ea3c6d4a69.html,官方页面待详情核验
+2026-09-23,浦银理财,• 国泰海通2027届秋季校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/75cff8f7a52247a0bb2ef5f67db99e15.html,官方页面待详情核验
+2026-09-23,浦银理财,• 浦发银行2027年度全球校园招聘启动,,待识别,,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260907/a5770d7068b340b19bbd3da40e8927a9.html,官方页面待详情核验
+2026-09-23,浦银理财,• 申能股份2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/37330bd5212a49809410f7e61272d133.html,官方页面待详情核验
+2026-09-23,浦银理财,• 申能集团2027届校园招聘启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/6d39e0bb73f04f9a92bc9646f6e358d2.html,官方页面待详情核验
+2026-09-23,浦银理财,• 百联集团2027届校园招聘正式启动,,待识别,2027届,其他,,33,否,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html,官方页面待详情核验
+2026-09-23,浦银理财,• 锦江国际集团2027届校园招聘启动,,待识别,2027届,其他,,33,是,公司池官方招聘页轮询/浦银理财,1,https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html,官方页面待详情核验
+2026-09-23,Coinbase,"Forward Deployed Engineer, Compliance [Office of the CTO]",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099,官方ATS
+2026-09-23,Coinbase,"Forward Deployed Engineer, Finance [Office of the CTO]",Remote - USA,待识别,,合规/AML/金融科技/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932,官方ATS
+2026-09-23,Coinbase,"Forward Deployed Engineer, Legal [Office of the CTO]",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884,官方ATS
+2026-09-23,Coinbase,"Group Product Manager, Compliance Agent Experience",Remote - USA,待识别,,合规/AML/产品经理/金融科技,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662,官方ATS
+2026-09-23,Coinbase,"Group Product Manager, Compliance Automation",Remote - USA,待识别,,合规/AML/产品经理/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642,官方ATS
+2026-09-23,Coinbase,"Product Manager II, Workspace and Multi-User",Remote - USA,待识别,,合规/AML/产品经理,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171,官方ATS
+2026-09-23,Coinbase,"Software Engineer, Enterprise Apps",Remote - Brazil,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814,官方ATS
+2026-09-23,Coinbase,"Sr. Systems Analyst, Finance, Enterprise Apps ",Remote - USA,待识别,,合规/AML/数据分析/产品经理,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856,官方ATS
+2026-09-23,Coinbase,Staff Machine Learning Engineer(Platform - Identity),Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486,官方ATS
+2026-09-23,Coinbase,Staff Machine Learning Engineer(Platform - Identity),Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, EAA CX",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Enterprise Apps",Remote - USA,待识别,,合规/AML/AI/Agent,,32,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218,官方ATS
+2026-09-23,Coinbase,"Accounting Manager, Lending & Credit Products",Remote - USA,待识别,,合规/AML/金融科技,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645,官方ATS
+2026-09-23,Coinbase,"Accounting Manager, Tokenized Equities",Remote - Abu Dhabi,待识别,,清算/基础设施,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8164862?gh_jid=8164862,官方ATS
+2026-09-23,Coinbase,"Associate Manager, Internal Audit",Remote - UK,待识别,,合规/AML/金融科技,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987,官方ATS
+2026-09-23,Coinbase,"Manager, Derivatives Compliance",Remote - USA,待识别,,清算/基础设施,,30,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8001778?gh_jid=8001778,官方ATS
+2026-09-23,Coinbase,Capacity Planning Lead,"Hybrid - Bangalore, India",待识别,,合规/AML/金融科技/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013889?gh_jid=8013889,官方ATS
+2026-09-23,Coinbase,Head of Product Creative ,Remote - USA,待识别,,合规/AML/产品经理,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7304930?gh_jid=7304930,官方ATS
+2026-09-23,Coinbase,"Senior Analyst, Compliance Technology",Remote - USA,待识别,,合规/AML/数据分析,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8221985?gh_jid=8221985,官方ATS
+2026-09-23,Coinbase,"Senior Counsel, Product",Remote - USA,待识别,,合规/AML/产品经理/金融科技,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8069582?gh_jid=8069582,官方ATS
+2026-09-23,Coinbase,"Senior Manager Product Operations, FCM Ops",Remote - USA,待识别,,合规/AML/数据分析,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8110496?gh_jid=8110496,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Platform - IAM",Remote - USA,待识别,,合规/AML/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366,官方ATS
+2026-09-23,Coinbase,Strategic Program Lead,Remote - USA,待识别,,合规/AML/AI/Agent,,22,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8083758?gh_jid=8083758,官方ATS
+2026-09-23,Coinbase,Engineering Manager - Platform (FinHub - Financial Intelligence),Remote - USA,待识别,,AI/Agent,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031,官方ATS
+2026-09-23,Coinbase,"Manager, Corporate Programs",Remote - USA,待识别,,AI/Agent,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8069671?gh_jid=8069671,官方ATS
+2026-09-23,Coinbase,Staff Software Engineer (Platform - Identity IDV),Remote - USA,待识别,,合规/AML/金融科技,,20,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776,官方ATS
+2026-09-23,Airwallex空中云汇,"Customer Success Manager, Enterprise Sales Sales • Singapore APAC , Singapore Singapore",,待识别,,其他,,18,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/27626ec4-7aad-4cee-b514-3813daf5b027/customer-success-manager-enterprise/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Customer Success Manager, SME & Growth, SEA New Markets Sales Sales • Singapore APAC , Singapore Singapore",,待识别,,其他,,18,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/c69718a6-9019-49b6-9fcc-ef7bfa24a6e9/customer-success-manager-sme-growth-sea-new-markets/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Enterprise Business Development Manager Sales Sales • Tel Aviv EMEA , Tel Aviv Tel Aviv",,待识别,,其他,,18,否,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/21de9fcf-8216-4200-9dc6-9ab7b7247500/enterprise-business-development-manager/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Senior Manager, Merchant Risk Operations, APAC [Relocation to Singapore] Operations Operations • Hong Kong SAR APAC , Hong Kong SAR Hong Kong SAR",香港,待识别,,其他,,18,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/67822c40-c428-47a7-b93c-eafb8c1ec033/senior-manager-merchant-risk-operations-apac-relocation-to-singapore/,官方页面待详情核验
+2026-09-23,Coinbase,FCM Tech Lead,Remote - USA,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154342?gh_jid=8154342,官方ATS
+2026-09-23,Coinbase,"Group Product Manager, Core Infrastructure & Reliability",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785,官方ATS
+2026-09-23,Coinbase,"Group Product Manager, Developer Infrastructure",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607,官方ATS
+2026-09-23,Coinbase,"Product Manager II, Growth - Notifications ",Remote - USA,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571,官方ATS
+2026-09-23,Coinbase,SAM Compliance Lead Analyst,Hybrid - Luxembourg,待识别,,合规/AML/金融科技,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8052192?gh_jid=8052192,官方ATS
+2026-09-23,Coinbase,"Senior Enterprise Product  Marketing Manager, Base",Remote - USA,待识别,,合规/AML,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Finhub",Remote - Canada,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162240?gh_jid=8162240,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Finhub",Remote - USA,待识别,,清算/基础设施,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162237?gh_jid=8162237,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Backend - Platform (Core AI Automation)",Remote - USA,待识别,,AI/Agent,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Customer Administration",Remote - India,待识别,,AI/Agent,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Security Platform",Remote - India,待识别,,产品经理,,10,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571,官方ATS
+2026-09-23,Wise,FinCrime Operations Team Lead - AML Investigations,,待识别,,合规/AML,,10,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574,官方页面待详情核验
+2026-09-23,Coinbase,"Communications Manager, Policy & Public Affairs",Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7746572?gh_jid=7746572,官方ATS
+2026-09-23,Coinbase,Internal Communications Manager,Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911,官方ATS
+2026-09-23,Coinbase,M&A and Accounting Policy Manager,Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8072054?gh_jid=8072054,官方ATS
+2026-09-23,Coinbase,"Manager, Product Communications",Remote - USA,待识别,,金融科技,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160771?gh_jid=8160771,官方ATS
+2026-09-23,Coinbase,"Strategic Finance Manager, Platform",Remote - USA,待识别,,其他,,8,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8148248?gh_jid=8148248,官方ATS
+2026-09-23,Oceanpayment钱海,Program Manager Product & Technology Team,,待识别,,其他,,8,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/program-manager,官方页面待详情核验
+2026-09-23,Oceanpayment钱海,Risk Control Manager Risk Control Team,,待识别,,其他,,8,否,公司池官方招聘页轮询/Oceanpayment钱海,1,https://www.oceanpayment.com/risk-control-manager,官方页面待详情核验
+2026-09-23,Wise,Latin America Government Relations Manager,,待识别,,其他,,8,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/latin-america-government-relations-manager-in-sao-paulo-jid-4202,官方页面待详情核验
+2026-09-23,Coinbase,"Engineering Manager, Market Data & Analytics",Remote - USA,待识别,,数据分析/清算/基础设施,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179214?gh_jid=8179214,官方ATS
+2026-09-23,Coinbase,GFCO Program Manager,Remote - USA,待识别,,合规/AML/数据分析,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8070046?gh_jid=8070046,官方ATS
+2026-09-23,Coinbase,Risk Manager - Country & Operational Risk,Remote - UK,待识别,,合规/AML/数据分析,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7774051?gh_jid=7774051,官方ATS
+2026-09-23,Coinbase,"Technical Program Manager, CX Intelligence & AI",Remote - USA,待识别,,合规/AML/数据分析/产品经理,,7,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948,官方ATS
+2026-09-23,Airwallex空中云汇,"Senior Accountant, Americas Finance and Corporate Development Finance and Corporate Development • San Francisco Americas , San Francisco San Francisco",,待识别,,其他,,0,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/48f55d7e-50dc-4875-ab4c-76f0286dc668/senior-accountant-americas/,官方页面待详情核验
+2026-09-23,Airwallex空中云汇,"Senior Customer Success Manager, Enterprise Sales Sales • Singapore APAC , Singapore Singapore",,待识别,,其他,,0,是,公司池官方招聘页轮询/Airwallex空中云汇,1,https://careers.airwallex.com/job/504dbff2-2557-4570-b6bb-c92fc136816b/senior-customer-success-manager-enterprise/,官方页面待详情核验
+2026-09-23,Coinbase," Staff Infrastructure Engineer, Trading ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144769?gh_jid=8144769,官方ATS
+2026-09-23,Coinbase,"Analyst, Business Controller",Remote - EMEA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7875558?gh_jid=7875558,官方ATS
+2026-09-23,Coinbase,"Associate General Counsel, Privacy",Remote - UK,待识别,,其他,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923,官方ATS
+2026-09-23,Coinbase,"Associate Manager, Premium & Wealth","Hybrid - London, UK",待识别,,数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8080028?gh_jid=8080028,官方ATS
+2026-09-23,Coinbase,"Business Operations Senior Associate, Institutional",Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7980600?gh_jid=7980600,官方ATS
+2026-09-23,Coinbase,"Compliance, Threat & Risk Assessment Manager",Remote - USA,待识别,,合规/AML/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692,官方ATS
+2026-09-23,Coinbase,Counsel - Financial Services,Remote - UK,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261,官方ATS
+2026-09-23,Coinbase,"Counsel, Commercial",Remote - USA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030594?gh_jid=8030594,官方ATS
+2026-09-23,Coinbase,"Country Director, India",Remote - India,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7606826?gh_jid=7606826,官方ATS
+2026-09-23,Coinbase,"Engineer Manager, HR Applications",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8154270?gh_jid=8154270,官方ATS
+2026-09-23,Coinbase,Engineering Manager - Customer Experience AI,Remote - India,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7741187?gh_jid=7741187,官方ATS
+2026-09-23,Coinbase,HR Business Partner,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7997879?gh_jid=7997879,官方ATS
+2026-09-23,Coinbase,"Head of Finance, Canada",Remote - Canada,待识别,,金融科技/清算/基础设施,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7993445?gh_jid=7993445,官方ATS
+2026-09-23,Coinbase,Internal Audit IT Manager,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7755116?gh_jid=7755116,官方ATS
+2026-09-23,Coinbase,Internal Audit Manager,Remote - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292,官方ATS
+2026-09-23,Coinbase,"Internal Audit Senior Associate, Operations & Compliance",Remote - USA,待识别,,合规/AML/数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684,官方ATS
+2026-09-23,Coinbase,Litigation Paralegal,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8030591?gh_jid=8030591,官方ATS
+2026-09-23,Coinbase,Manager of Compliance Testing and Assurance,Hybrid - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7286062?gh_jid=7286062,官方ATS
+2026-09-23,Coinbase,"Manager, GRC",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8167666?gh_jid=8167666,官方ATS
+2026-09-23,Coinbase,"Manager, Markets Sales",Remote - UAE,待识别,,其他,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8023815?gh_jid=8023815,官方ATS
+2026-09-23,Coinbase,"Manager, WFM CX Operations",Remote - USA,待识别,,金融科技/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586,官方ATS
+2026-09-23,Coinbase,"Manager, WFM Compliance Operations",Remote - USA,待识别,,金融科技/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161,官方ATS
+2026-09-23,Coinbase,Operational Excellence Senior Program Lead,Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059,官方ATS
+2026-09-23,Coinbase,Operations Senior Associate,Remote - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013718?gh_jid=8013718,官方ATS
+2026-09-23,Coinbase,Principal Recruiter,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8050322?gh_jid=8050322,官方ATS
+2026-09-23,Coinbase,Principal Recruiter,Remote - Singapore,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071,官方ATS
+2026-09-23,Coinbase,"Product Marketing Manager, Prediction Markets",Remote - USA,待识别,,金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7982771?gh_jid=7982771,官方ATS
+2026-09-23,Coinbase,"Product Marketing Manager, Prime & Markets",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7572514?gh_jid=7572514,官方ATS
+2026-09-23,Coinbase,Regulatory Compliance Manager ,Remote - Singapore,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8152576?gh_jid=8152576,官方ATS
+2026-09-23,Coinbase,"Senior Accountant, Brokerage and Derivatives","New York City, NY",待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8157661?gh_jid=8157661,官方ATS
+2026-09-23,Coinbase,"Senior Analytics Engineer, GFCO Analytics",Remote - USA,待识别,,合规/AML/数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880,官方ATS
+2026-09-23,Coinbase,"Senior Associate, Business Development",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386,官方ATS
+2026-09-23,Coinbase,"Senior Associate, FCM",Remote - USA,待识别,,数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060577?gh_jid=8060577,官方ATS
+2026-09-23,Coinbase,Senior Compliance Associate,Hybrid - Luxembourg,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7611263?gh_jid=7611263,官方ATS
+2026-09-23,Coinbase,Senior Data Scientist,Remote - Singapore,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917,官方ATS
+2026-09-23,Coinbase,"Senior Data Scientist, CX Analytics",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8009392?gh_jid=8009392,官方ATS
+2026-09-23,Coinbase,"Senior Data Scientist, Product ",Remote - UK,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668,官方ATS
+2026-09-23,Coinbase,"Senior Engineering Manager, Core AI Automation (Platform)",Remote - USA,待识别,,合规/AML/AI/Agent,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224,官方ATS
+2026-09-23,Coinbase,Senior Enterprise Engineer - Salesforce Platform (EAA - STP),Remote - USA,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048,官方ATS
+2026-09-23,Coinbase,Senior IT Automation Engineer,Remote - India,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055,官方ATS
+2026-09-23,Coinbase,Senior IT Automation Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207,官方ATS
+2026-09-23,Coinbase,"Senior Infrastructure Engineer, Trading ",Remote - USA,待识别,,清算/基础设施,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114,官方ATS
+2026-09-23,Coinbase,"Senior Internal Communications Manager, People",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8162914?gh_jid=8162914,官方ATS
+2026-09-23,Coinbase,Senior Machine Learning Engineer,Remote - India,待识别,,合规/AML/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592,官方ATS
+2026-09-23,Coinbase,"Senior Machine Learning Engineer, CX Intelligence ",Remote - Brazil,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569,官方ATS
+2026-09-23,Coinbase,Senior Machine Learning Platform Engineer,Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490,官方ATS
+2026-09-23,Coinbase,"Senior Manager, Finance & Strategy",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7948222?gh_jid=7948222,官方ATS
+2026-09-23,Coinbase,Senior Market Data Engineer,Remote - USA,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833,官方ATS
+2026-09-23,Coinbase,Senior Network Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179311?gh_jid=8179311,官方ATS
+2026-09-23,Coinbase,Senior Onchain Investigator,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8051513?gh_jid=8051513,官方ATS
+2026-09-23,Coinbase,"Senior Performance Marketing Manager, Global Paid Social & Mobile UA",Remote - USA,待识别,,合规/AML/数据分析/金融科技,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8192485?gh_jid=8192485,官方ATS
+2026-09-23,Coinbase,"Senior Product Designer, Coinbase One",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114474?gh_jid=8114474,官方ATS
+2026-09-23,Coinbase,"Senior Product Manager, Help Center (CX Automation)",Remote - India,待识别,,合规/AML/数据分析/产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208,官方ATS
+2026-09-23,Coinbase,"Senior Product Marketing Manager, Trading ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8077090?gh_jid=8077090,官方ATS
+2026-09-23,Coinbase,Senior Recruiter,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8064788?gh_jid=8064788,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer,Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer (EAA),Remote - USA,待识别,,合规/AML/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer (Platform - Access & Authorization),Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer - Data Platform ,Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer - Frontend - Coinbase Card team,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer - Trading,Remote - Singapore,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7866674?gh_jid=7866674,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Agent Verification ",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8174949?gh_jid=8174949,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Backend (Consumer - Growth Foundations)",Remote - Canada,待识别,,产品经理,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8092651?gh_jid=8092651,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Backend (Consumer - Risk)",Remote - Canada,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7930686?gh_jid=7930686,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Backend (Institutional - ",Remote - USA,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Backend - Platform (Core AI Automation)",Remote - USA,待识别,,AI/Agent,,0,是,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Core AI Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Core Infra Systems",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Core Reliability",Remote - Canada,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Data Engineering Platform",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Developer Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Frontend (Consumer - Payments)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Frontend (Platform - Identity)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Simple Trade Experience",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569,官方ATS
+2026-09-23,Coinbase,"Senior Software Engineer, Stablecoins",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8104873?gh_jid=8104873,官方ATS
+2026-09-23,Coinbase,Senior Software Engineer- Blockchain Network,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196,官方ATS
+2026-09-23,Coinbase,Senior Sourcing Analyst,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8017697?gh_jid=8017697,官方ATS
+2026-09-23,Coinbase,Senior Staff Software Engineer - Blockchain Platform,Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7366208?gh_jid=7366208,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Core Automation",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Data Platform",Remote - USA,待识别,,数据分析/AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Institutional Exchange",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Payments",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8056068?gh_jid=8056068,官方ATS
+2026-09-23,Coinbase,"Senior Staff Software Engineer, Payments",Remote - Canada,待识别,,合规/AML,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8060842?gh_jid=8060842,官方ATS
+2026-09-23,Coinbase,Senior Strategic Program Lead,Remote - USA,待识别,,合规/AML/数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8198065?gh_jid=8198065,官方ATS
+2026-09-23,Coinbase,Senior Talent Program Manager,Remote - USA,待识别,,数据分析,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8126484?gh_jid=8126484,官方ATS
+2026-09-23,Coinbase,Senior Threat Intelligence Engineer,Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803,官方ATS
+2026-09-23,Coinbase,"Staff Data Engineer, Market Data",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836,官方ATS
+2026-09-23,Coinbase,Staff Software Engineer,Remote - Israel,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650,官方ATS
+2026-09-23,Coinbase,Staff Software Engineer (Platform - Access & Authorization),Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Compute Platform (Routing)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Core AI Infrastructure",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Developer Infrastructure ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Developer Infrastructure (Test Infrastructure)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Frontend (Consumer - Advanced Trading)",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer, Solana Staking Protocol ",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298,官方ATS
+2026-09-23,Coinbase,"Staff Software Engineer- Wallets, Liquidity & Bridging",Remote - USA,待识别,,其他,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831,官方ATS
+2026-09-23,Coinbase,"Staff Technical Program Manager, CX Agent Experience",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8047657?gh_jid=8047657,官方ATS
+2026-09-23,Coinbase,"Technical Program Manager, Knowledge Systems",Remote - USA,待识别,,AI/Agent,,0,否,Coinbase官方ATS,1,https://www.coinbase.com/careers/positions/8013892?gh_jid=8013892,官方ATS
+2026-09-23,Wise,"AI Implementation Senior Manager, TGS",,待识别,,其他,,0,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/ai-implementation-senior-manager-tgs-in-london-jid-4198,官方页面待详情核验
+2026-09-23,Wise,Building global blueprints at Wise Platform as a Senior Implementation Manager,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-5/building-global-blueprints-at-wise-platform-as-a-senior-impl,官方页面待详情核验
+2026-09-23,Wise,Compliance Lead/ CCO US Assets,,待识别,,其他,,0,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/compliance-lead-cco-us-assets-in-new-york-jid-3573,官方页面待详情核验
+2026-09-23,Wise,Compliance Senior Manager- Fraud Controls,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/compliance-senior-manager-fraud-controls-in-new-york-jid-3780,官方页面待详情核验
+2026-09-23,Wise,Driving Systemic Impact with our Global ESG Lead ð,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-8/driving-systemic-impact-with-our-global-esg-lead,官方页面待详情核验
+2026-09-23,Wise,From 7 to scaled: What Iâve learned leading Product Analytics at Wise,,待识别,,数据分析,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-7/from-7-to-scaled-what-i-ve-learned-leading-product-analytic,官方页面待详情核验
+2026-09-23,Wise,From attending a campus talk to leading in FinCrime,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-6/from-attending-a-campus-talk-to-leading-in-fincrime,官方页面待详情核验
+2026-09-23,Wise,Head of Technical Accounting,,待识别,,其他,,0,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/head-of-technical-accounting-in-london-jid-2399,官方页面待详情核验
+2026-09-23,Wise,Leading Engineering through ownership,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/blog/2026-5/leading-engineering-through-ownership,官方页面待详情核验
+2026-09-23,Wise,Paid Audio Senior Manager,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/paid-audio-senior-manager-in-new-york-jid-3020,官方页面待详情核验
+2026-09-23,Wise,Product Compliance Lead - Remediation,,待识别,,其他,,0,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/product-compliance-lead-remediation-in-london-jid-4201,官方页面待详情核验
+2026-09-23,Wise,Senior Implementation Manager,,待识别,,其他,,0,否,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/senior-implementation-manager-in-singapore-jid-4093,官方页面待详情核验
+2026-09-23,Wise,Senior Software Engineer I - Cash Management,,待识别,,其他,,0,是,公司池官方招聘页轮询/Wise,1,https://wise.jobs/job/senior-software-engineer-i-cash-management-in-london-jid-4125,官方页面待详情核验
