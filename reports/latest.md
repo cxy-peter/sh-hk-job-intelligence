@@ -1,20 +1,16 @@
-# 沪港秋招情报 · 2026-10-04
+# 沪港秋招情报 · 2026-10-05
 
 ## 今日结论
-**发现 4 个高匹配新增岗位/招聘批次。**
+**发现 2 个高匹配新增岗位/招聘批次。**
 
 ## 公司与新增职位
 | 公司 | 新职位/批次 | 地点 | 批次 | 届别 | 方向 | 截止 | 匹配分 | 核验 | 来源 |
 |---|---|---|---|---|---|---|---:|---|---|
-| 上海国盛集团 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国盛集团 |
-| 上海国盛集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国盛集团 |
-| 上海国茂控股 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国茂控股 |
-| 上海国茂控股 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国茂控股 |
-| Nium | [FX Real-time conversion across 2,000+ currency pairs and 125+ currencies.](https://www.nium.com/products/global-fx) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Nium |
-| Rapyd | [Bogota, Colombia (9)](https://www.rapyd.net/company/careers-search/?location=bogota-colombia) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Rapyd |
-| Rapyd | [Tel Aviv, Israel (18)](https://www.rapyd.net/company/careers-search/?location=tel-aviv-israel) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Rapyd |
-| 上海国盛集团 | [• 百联股份2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/9b6cfb42022744aca1e8fff43b5687e1.html) | 待识别 | 待识别 | 2027届 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国盛集团 |
-| 上海国茂控股 | [• 百联股份2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/9b6cfb42022744aca1e8fff43b5687e1.html) | 待识别 | 待识别 | 2027届 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国茂控股 |
+| 上海国际能源交易中心 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国际能源交易中心 |
+| 申通地铁集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 待识别 | 2027届 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/申通地铁集团 |
+| Airwallex空中云汇 | [Inbound Business Development Representative, SME & Growth Sales Sales • Auckland APAC , Auckland Auckland](https://careers.airwallex.com/job/dff8e890-c38f-4abe-a2b1-6a526bbc734d/inbound-business-development-representative-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Inbound Sales Executive, SME & Growth Sales Sales • Sydney APAC , Sydney Sydney](https://careers.airwallex.com/job/af575d67-58af-4140-98cc-71125144d3e5/inbound-sales-executive-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Inside Sales Representative, SME & Growth Sales Sales • Auckland APAC , Auckland Auckland](https://careers.airwallex.com/job/276e75cd-f5cf-4acf-a48d-f71e76bd875b/inside-sales-representative-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
 
 ## 当前开放/待核验岗位（按匹配分）
 | 公司 | 职位/批次 | 地点 | 方向 | 匹配分 | 状态 |
@@ -63,15 +59,15 @@
 | • 百联股份 | [• 百联股份2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/9b6cfb42022744aca1e8fff43b5687e1.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 百联集团 | [• 百联集团2027届校园招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260914/7c13c4e5ccca41aeb28d1645cab93d9a.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 锦江国际集团 | [• 锦江国际集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海建工2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海建工2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海建工2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海银行 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海建工2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260917/25ea906b705140e5b0a5959b80ea81bb.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | Coinbase | [Broker Dealer Operations, Associate](https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Credit Risk Analyst](https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Deputy Chief Regulatory Officer](https://www.coinbase.com/careers/positions/8001778?gh_jid=8001778) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
@@ -121,7 +117,7 @@
 ## 数据源健康
 | 数据源 | 状态 | 抓取数 | 详情 |
 |---|---|---:|---|
-| 公司池官方招聘页轮询 | partial | 133 | Scanned 17 official pages: 7 ok, 5 empty/partial, 5 failed; rotation bucket 0/7 |
+| 公司池官方招聘页轮询 | partial | 110 | Scanned 21 official pages: 10 ok, 4 empty/partial, 7 failed; rotation bucket 1/7 |
 | Airwallex官方职位 | ok | 5 | HTTP 200; extracted 5 candidate links |
 | 上海国资委国企招聘 | ok | 15 | HTTP 200; extracted 15 candidate links |
 | 中国银联招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='career.unionpay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='career.unionpay.com', port=443): Failed to resolve 'career.unionpay.com' ([Errno -2] Name or service not known)")) |
@@ -131,7 +127,7 @@
 | SUNRATE招聘官网 | ok | 3 | HTTP 200; extracted 3 candidate links |
 | ZA Bank招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='careers.za.group', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='careers.za.group', port=443): Failed to resolve 'careers.za.group' ([Errno -2] Name or service not known)")) |
 | Coinbase官方ATS | ok | 229 | Greenhouse board=coinbase |
-| 公共Web搜索-官网与提前批 | blocked | 0 | DDGSException: No results found. |
+| 公共Web搜索-官网与提前批 | blocked | 0 | TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out |
 | 实习僧Skill本地导出 | blocked | 0 | Waiting for local export: data/external/shixiseng_jobs.csv |
 
 ## 筛选规则
