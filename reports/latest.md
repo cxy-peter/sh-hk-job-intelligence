@@ -1,4 +1,4 @@
-# 沪港秋招情报 · 2026-11-15
+# 沪港秋招情报 · 2026-11-16
 
 ## 今日结论
 **发现 1 个高匹配新增岗位/招聘批次。**
@@ -6,10 +6,13 @@
 ## 公司与新增职位
 | 公司 | 新职位/批次 | 地点 | 批次 | 届别 | 方向 | 截止 | 匹配分 | 核验 | 来源 |
 |---|---|---|---|---|---|---|---:|---|---|
-| 上海国盛集团 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 日常招聘 | 待识别 | 其他 | 待核验 | 58 | 官方页面待详情核验 | 公司池官方招聘页轮询/上海国盛集团 |
-| Rapyd | [Bogota, Colombia (8)](https://www.rapyd.net/company/careers-search/?location=bogota-colombia) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Rapyd |
-| Rapyd | [London, U.K (2)](https://www.rapyd.net/company/careers-search/?location=london-u-k) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Rapyd |
-| Airwallex空中云汇 | [Founding Customer Success Manager, SME & Growth Sales Sales • Manchester EMEA , Manchester Manchester](https://careers.airwallex.com/job/0ebbca42-1507-4cdb-b757-41bf96df37ac/founding-customer-success-manager-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Inbound Sales Representative, SME & Growth Sales Sales • Hong Kong SAR APAC , Hong Kong SAR Hong Kong SAR](https://careers.airwallex.com/job/dbb8d792-8ce0-4fdd-8953-b1d0aa0d3c0a/inbound-sales-representative-sme-growth/) | 香港 | 待识别 | 待识别 | 其他 | 待核验 | 63 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Staff Data Platform Engineer, Knowledge Platform Engineering Engineering • Seattle Americas , Seattle Seattle](https://careers.airwallex.com/job/9ef670e4-5767-42d0-91d1-6addace2cb67/staff-data-platform-engineer-knowledge-platform/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Manager, Product Success, T:0 (Agentic Finance) Strategy and Operations Strategy and Operations • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/377883a6-3bd1-4e89-8f3f-0bc1f6966a91/manager-product-success-t0-agentic-finance/) | 待识别 | 待识别 | 待识别 | 运营策略/AI/Agent | 待核验 | 30 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Product Director, Embedded Finance Product Product • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/00a99ed3-90f1-4bdf-861e-0cbca8940208/product-director-embedded-finance/) | 待识别 | 待识别 | 待识别 | 合规/AML | 待核验 | 20 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Manager, Sales Development, SME & Growth Sales Sales • Sydney APAC , Sydney Sydney](https://careers.airwallex.com/job/5aa922f2-51cc-46b5-90ba-f06fcdfc2da6/manager-sales-development-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Senior Associate, Product Success, T:0 (Agentic Finance) Strategy and Operations Strategy and Operations • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/1137fce0-ebd4-4979-8900-315f82f197b9/senior-associate-product-success-t0-agentic-finance/) | 待识别 | 待识别 | 待识别 | 运营策略/AI/Agent | 待核验 | 10 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Data Platform Principal Architect, Seattle/San Francisco Engineering Engineering • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/eb6603a0-87a5-4847-bbc7-b17d7897f9ad/data-platform-principal-architect-seattle-san-francisco/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
 
 ## 当前开放/待核验岗位（按匹配分）
 | 公司 | 职位/批次 | 地点 | 方向 | 匹配分 | 状态 |
@@ -17,6 +20,7 @@
 | 上海农商银行 | [2027届暑期实习生招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html) | 上海 | 金融科技/风控策略 | 98 | 官方公告；报名是否仍开放待核验 |
 | 上海建科咨询集团 | [暑期实习暨2027届秋招提前批次](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html) | 上海 | 数据分析/产品经理 | 82 | 官方公告；具体岗位与当前截止状态待核验 |
 | 拼多多集团 | [合规运营管培生（2027届提前批）](https://careers.pddglobalhr.com/campus) | 上海 | 合规/AML | 78 | 批次和截止日期已核验；具体JD回官网确认 |
+| Airwallex空中云汇 | [Staff Product Manager, Embedded Finance Product Product • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/d18f4a94-34a8-4548-b3e4-85589f2c620d/staff-product-manager-embedded-finance/) | 待识别 | 合规/AML/产品经理 | 77 | 官方页面待详情核验 |
 | 拼多多集团 | [数据分析师（2027届提前批）](https://careers.pddglobalhr.com/campus) | 上海 | 数据分析 | 68 | 批次和截止日期已核验；具体JD回官网确认 |
 | Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Business Controller Intern](https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
@@ -45,6 +49,7 @@
 | PayerMax | [Self-Service Settlement](https://www.payermax.com/products/fund-management#backstage) | 待识别 | 清算/基础设施 | 65 | 官方页面待详情核验 |
 | 连连数字/连连国际 | [合规资质](https://global.lianlianpay.com/company/compliance) | 待识别 | 合规/AML | 65 | 官方页面待详情核验 |
 | 字节跳动 | [AI产品经理早鸟通道（2027届）](https://www.chaojijianli.com/xiaozhao/autumn-recruit-ai-early-batch-11585-6f03a5/) | 上海 | 产品经理 | 64 | 聚合线索；必须回字节校招官网核验 |
+| Airwallex空中云汇 | [Inbound Sales Representative, SME & Growth Sales Sales • Hong Kong SAR APAC , Hong Kong SAR Hong Kong SAR](https://careers.airwallex.com/job/dbb8d792-8ce0-4fdd-8953-b1d0aa0d3c0a/inbound-sales-representative-sme-growth/) | 香港 | 其他 | 63 | 官方页面待详情核验 |
 | >国企 | [>国企招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/index.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • “骐骥秋实”上海国资国企 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 上海交易集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
@@ -57,20 +62,21 @@
 | • 申迪集团 | [• 申迪集团2027届秋季校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/ca95891f765b468cad460a89ddcc8335.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 百联股份 | [• 百联股份2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/9b6cfb42022744aca1e8fff43b5687e1.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | • 锦江国际集团 | [• 锦江国际集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海航运交易所面向社会公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/c8c5898d9d2842b2aeb6f116aa921e6c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国盛集团 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海国茂控股 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海航运交易所面向社会公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/c8c5898d9d2842b2aeb6f116aa921e6c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
-| 上海国茂控股 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海航运交易所面向社会公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/c8c5898d9d2842b2aeb6f116aa921e6c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海国际能源交易中心 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海城投 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海银行 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海航运交易所面向社会公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/c8c5898d9d2842b2aeb6f116aa921e6c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 申通地铁集团 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | Coinbase | [Analyst, Privacy (Privacy Assessments)](https://www.coinbase.com/careers/positions/8281622?gh_jid=8281622) | Remote - USA | 合规/AML | 55 | 官方ATS |
 | Coinbase | [Broker Dealer Operations, Associate](https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Clearing Risk Analyst](https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
@@ -91,9 +97,6 @@
 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid - New York, NY | 数据分析 | 45 | 官方ATS |
 | Coinbase | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) | Hybrid - San Francisco, CA | 产品经理/AI/Agent | 45 | 官方ATS |
 | Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8334231?gh_jid=8334231) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8334281?gh_jid=8334281) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8346064?gh_jid=8346064) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
 
 ## 新发现公司（待纳入公司池）
 | 公司 | 触发岗位/公告 | 地点 | 来源 | 核验动作 |
@@ -114,8 +117,8 @@
 ## 数据源健康
 | 数据源 | 状态 | 抓取数 | 详情 |
 |---|---|---:|---|
-| 公司池官方招聘页轮询 | partial | 132 | Scanned 17 official pages: 7 ok, 5 empty/partial, 5 failed; rotation bucket 0/7 |
-| Airwallex官方职位 | ok | 7 | HTTP 200; extracted 7 candidate links |
+| 公司池官方招聘页轮询 | partial | 114 | Scanned 21 official pages: 10 ok, 4 empty/partial, 7 failed; rotation bucket 1/7 |
+| Airwallex官方职位 | ok | 9 | HTTP 200; extracted 9 candidate links |
 | 上海国资委国企招聘 | ok | 15 | HTTP 200; extracted 15 candidate links |
 | 中国银联招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='career.unionpay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='career.unionpay.com', port=443): Failed to resolve 'career.unionpay.com' ([Errno -2] Name or service not known)")) |
 | 上海农商银行招聘官网 | partial | 0 | HTTP 200; extracted 0 candidate links |
