@@ -1,40 +1,23 @@
-# 沪港秋招情报 · 2026-11-19
+# 沪港秋招情报 · 2026-11-20
 
 ## 今日结论
-发现 29 个新增线索，但暂时没有达到高匹配阈值的岗位。
+**发现 1 个高匹配新增岗位/招聘批次。**
 
 ## 公司与新增职位
 | 公司 | 新职位/批次 | 地点 | 批次 | 届别 | 方向 | 截止 | 匹配分 | 核验 | 来源 |
 |---|---|---|---|---|---|---|---:|---|---|
-| Airwallex空中云汇 | [Account Executive, Mid Market, SME & Growth Sales Sales • Shenzhen APAC , Shenzhen Shenzhen](https://careers.airwallex.com/job/16b9d118-c1d1-491d-86da-dff800c6e3a0/account-executive-mid-market-sme-growth/) | 深圳 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Airwallex空中云汇 | [Account Executive, Outbound, SME & Growth, Sales Sales • Xiamen APAC , Xiamen Xiamen](https://careers.airwallex.com/job/6df32f20-e872-42ce-81d1-1abd35d4a9b3/account-executive-outbound-sme-growth/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| 连连数字/连连国际 | [连连闪收 亚马逊自动化加速收款](https://global.lianlianpay.com/products/flash) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/连连数字/连连国际 |
-| Coinbase | [Chief of Staff, CTO](https://www.coinbase.com/careers/positions/8393768) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Communications Generalist](https://www.coinbase.com/careers/positions/8386363) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Compliance Investigations Associate](https://www.coinbase.com/careers/positions/8386659) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8382718) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8382720) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Product Security Engineer, Offensive Security](https://www.coinbase.com/careers/positions/8394654) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Product Designer, Onchain Yield & Investments](https://www.coinbase.com/careers/positions/8397873) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Product Designer, Onchain Yield & Investments ](https://www.coinbase.com/careers/positions/8397873?gh_jid=8397873) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
-| Coinbase | [Staff Software Engineer, Infrastructure (Datastores)](https://www.coinbase.com/careers/positions/8286487) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Staff Software Engineer, TRUST Network](https://www.coinbase.com/careers/positions/8368472) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| PayPal | [Building Better Teams](https://careers.pypl.com/inclusive-hiring/default.aspx) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 33 | 官方页面待详情核验 | 公司池官方招聘页轮询/PayPal |
-| Coinbase | [Financial Crimes Compliance, Internal Audit Associate Manager Internal](https://www.coinbase.com/careers/positions/8154987) | 待识别 | 待识别 | 待识别 | 合规/AML | 待核验 | 30 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Product Manager, Workspace and Multi-User](https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171) | Remote - USA | 待识别 | 待识别 | 合规/AML/产品经理 | 待核验 | 22 | 官方ATS | Coinbase官方ATS |
-| Airwallex空中云汇 | [Manager, Operations Strategy (Consumer Insights) Operations Operations • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/3c249883-acf0-4aa1-b325-496eab0ef155/manager-operations-strategy-consumer-insights/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Coinbase | [Associate Manager, SOX and Internal Controls](https://www.coinbase.com/careers/positions/8394348) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Corporate Accounting Manager](https://www.coinbase.com/careers/positions/8093264) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Credit Risk Manager](https://www.coinbase.com/careers/positions/8385963) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Institutional Sales Manager, Hedge Funds](https://www.coinbase.com/careers/positions/8311332) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 8 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Airwallex空中云汇 | [Senior Analyst, Finance Shared Services Finance and Corporate Development Finance and Corporate Development • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/41bc7726-2229-47c0-9394-9bfd7c11f898/senior-analyst-finance-shared-services/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
-| Coinbase | [Institutional Sales Manager, Hedge Funds](https://www.coinbase.com/careers/positions/8311332?gh_jid=8311332) | Remote - USA | 待识别 | 待识别 | 清算/基础设施 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
-| Coinbase | [Program Lead, Performance & Enablement](https://www.coinbase.com/careers/positions/8357227) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Product Manager, Workspace and Multi-User](https://www.coinbase.com/careers/positions/8148171) | 待识别 | 待识别 | 待识别 | 产品经理 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer, Core Reliability](https://www.coinbase.com/careers/positions/8237493) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer, Financial Integrity](https://www.coinbase.com/careers/positions/8395582) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer, Native Mobile (iOS/Android)](https://www.coinbase.com/careers/positions/8029035) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
-| Coinbase | [Senior Software Engineer, TRUST Network](https://www.coinbase.com/careers/positions/8368463) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Coinbase |
+| Airwallex空中云汇 | [Staff Product Manager, Growth Product Product • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/616eda6b-59cc-46e1-a210-2b042644b374/staff-product-manager-growth/) | 待识别 | 待识别 | 待识别 | 产品经理 | 待核验 | 55 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Account Executive , SME & Growth, Spain Sales Sales • Barcelona Barcelona , EMEA Barcelona](https://careers.airwallex.com/job/b6e95681-c4d3-4a70-a1e0-97db3808a282/account-executive-sme-growth-spain/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 43 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Coinbase | [International Expansion Operations Associate](https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367) | Remote - UK | 待识别 | 待识别 | 金融科技 | 待核验 | 33 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Staff Design Researcher](https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555) | Remote - USA | 待识别 | 待识别 | 产品经理/清算/基础设施 | 待核验 | 32 | 官方ATS | Coinbase官方ATS |
+| Airwallex空中云汇 | [Developer Product Marketing Manager, Agentic Product Product • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/04f3a2ed-76e2-406e-a58f-aa0e7480cfb7/developer-product-marketing-manager-agentic/) | 待识别 | 待识别 | 待识别 | AI/Agent | 待核验 | 30 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Customer Success Manager, SME & Growth, DACH Sales Sales • Berlin Berlin , EMEA Berlin](https://careers.airwallex.com/job/d21d9af9-7194-4054-978b-3085160cd7ab/customer-success-manager-sme-growth-dach/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Airwallex空中云汇 | [Manager, Operations Strategy (Customer Insights) Operations Operations • Singapore APAC , Singapore Singapore](https://careers.airwallex.com/job/3c249883-acf0-4aa1-b325-496eab0ef155/manager-operations-strategy-customer-insights/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 18 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Coinbase | [Director, Credit Risk](https://www.coinbase.com/careers/positions/8360760?gh_jid=8360760) | Remote - USA | 待识别 | 待识别 | 合规/AML/清算/基础设施 | 待核验 | 10 | 官方ATS | Coinbase官方ATS |
+| Airwallex空中云汇 | [Senior Software Engineer, Airi Engineering Engineering • London EMEA , London London](https://careers.airwallex.com/job/7a0f1270-e18a-41c0-b5fc-8efee5d11926/senior-software-engineer-airi/) | 待识别 | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方页面待详情核验 | 公司池官方招聘页轮询/Airwallex空中云汇 |
+| Coinbase | [Senior Product Creative Designer](https://www.coinbase.com/careers/positions/8402798?gh_jid=8402798) | Remote - USA | 待识别 | 待识别 | 其他 | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Senior Software Engineer, Backend (Retail Spot)](https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517) | Remote - Canada | 待识别 | 待识别 | 清算/基础设施/AI/Agent | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
+| Coinbase | [Senior Software Engineer, Native Mobile - International](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) | Remote - Singapore | 待识别 | 待识别 | AI/Agent | 待核验 | 0 | 官方ATS | Coinbase官方ATS |
 
 ## 当前开放/待核验岗位（按匹配分）
 | 公司 | 职位/批次 | 地点 | 方向 | 匹配分 | 状态 |
@@ -45,9 +28,9 @@
 | 拼多多集团 | [数据分析师（2027届提前批）](https://careers.pddglobalhr.com/campus) | 上海 | 数据分析 | 68 | 批次和截止日期已核验；具体JD回官网确认 |
 | Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Business Controller Intern](https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
-| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
-| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720) | Remote - Luxembourg | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718) | Remote - Ireland | 合规/AML/数据分析 | 67 | 官方ATS |
+| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720) | Remote - Luxembourg | 合规/AML/数据分析 | 67 | 官方ATS |
+| Coinbase | [Compliance, International Investigations Associate](https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Concierge Specialist IV](https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308) | Hybrid - London, UK | 合规/AML/金融科技/AI/Agent | 67 | 官方ATS |
 | Coinbase | [Employee and Workplace Experience Intern](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Enterprise Risk Management Analyst](https://www.coinbase.com/careers/positions/8233945?gh_jid=8233945) | Remote - Luxembourg | 风控策略/数据分析 | 67 | 官方ATS |
@@ -58,8 +41,8 @@
 | Coinbase | [Prime Sales Trader](https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951) | Remote - UK | 产品经理/清算/基础设施 | 67 | 官方ATS |
 | Coinbase | [Product Design Intern](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) | Hybrid - San Francisco, CA | 合规/AML/产品经理 | 67 | 官方ATS |
 | Coinbase | [Product Manager II, Payment Experiences](https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842) | Remote - USA | 合规/AML/支付产品/产品经理 | 67 | 官方ATS |
-| Coinbase | [Risk & Monitoring Analyst III](https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Risk & Monitoring Analyst III](https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
+| Coinbase | [Risk & Monitoring Analyst III](https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Risk & Monitoring Analyst IV](https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686) | Dublin, Ireland | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Risk & Monitoring Analyst IV](https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976) | Remote - UK | 合规/AML/数据分析 | 67 | 官方ATS |
 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY | 合规/AML/数据分析 | 67 | 官方ATS |
@@ -80,45 +63,45 @@
 | • 锦江国际集团 | [• 锦江国际集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260920/61090291975a47489f04a4ff03d6151d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海国茂控股 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海城投 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• “骐骥秋实”上海国资国企2027届高校毕业生校园招聘正式启动！](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海交易集团2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260930/302bbf482c784c10a728c69c0e429c6f.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海国茂控股有限公司社会招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261109/adad2bdfbccc42618ddf284ff1f466d8.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海城投集团2027年招聘正式启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261021/ad91813c97e348c6857ca35d0b375eb9.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海航运交易所面向社会公开招聘](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20261015/c8c5898d9d2842b2aeb6f116aa921e6c.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| 上海期货交易所 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
 | 上海银行 | [• 上海银行2027届校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260923/e103427cc6554ce6b2be0ea7b0c87260.html) | 上海 | 其他 | 58 | 官方页面待详情核验 |
+| Airwallex空中云汇 | [Staff Product Manager, Growth Product Product • San Francisco Americas , San Francisco San Francisco](https://careers.airwallex.com/job/616eda6b-59cc-46e1-a210-2b042644b374/staff-product-manager-growth/) | 待识别 | 产品经理 | 55 | 官方页面待详情核验 |
+| Checkout.com | [Fraud Detection Build a robust risk strategy](https://www.checkout.com/products/fraud-detection) | 待识别 | 风控策略 | 55 | 官方页面待详情核验 |
 | Coinbase | [Analyst, Privacy (Privacy Assessments)](https://www.coinbase.com/careers/positions/8281622?gh_jid=8281622) | Remote - USA | 合规/AML | 55 | 官方ATS |
 | Coinbase | [Broker Dealer Operations, Associate](https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
-| Coinbase | [Clearing Risk Analyst](https://www.coinbase.com/careers/positions/8131356) | 待识别 | 清算/基础设施 | 55 | 官方页面待详情核验 |
 | Coinbase | [Clearing Risk Analyst](https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8337206?gh_jid=8337206) | Manila, Philippines | 合规/AML/金融科技 | 55 | 官方ATS |
 | Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8337209?gh_jid=8337209) | Manila, Philippines | 合规/AML/金融科技 | 55 | 官方ATS |
-| Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8337782?gh_jid=8337782) | Manila, Philippines | 合规/AML/金融科技 | 55 | 官方ATS |
 | Coinbase | [Deputy Chief Regulatory Officer](https://www.coinbase.com/careers/positions/8001778?gh_jid=8001778) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
-| Coinbase | [Embedded Engineer [Office of the CTO]](https://www.coinbase.com/careers/positions/8099099) | 待识别 | 合规/AML | 55 | 官方页面待详情核验 |
-| Coinbase | [Embedded Wallets](https://www.coinbase.com/developer-platform/products/embeddedwallets) | 待识别 | 合规/AML | 55 | 官方页面待详情核验 |
 | Coinbase | [Institutional Operations Intern](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) | Hybrid - New York, NY | 合规/AML | 55 | 官方ATS |
 | Coinbase | [Real Estate & Builds Intern](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) | Hybrid - New York, NY | 合规/AML | 55 | 官方ATS |
 | Coinbase | [Software Engineer, CDP - Payment Acceptance ](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) | Remote - USA | 合规/AML/清算/基础设施 | 55 | 官方ATS |
-| Coinbase | [Specialist, Market Operations](https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Specialist, Market Operations](https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267) | Remote - UK | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Specialist, Market Operations](https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264) | Remote - Singapore | 清算/基础设施 | 55 | 官方ATS |
+| Coinbase | [Specialist, Market Operations](https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Sr. Staff Technical Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Coinbase | [Sr. Staff Technical Risk Architect, Unified Trading](https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776) | Remote - USA | 清算/基础设施 | 55 | 官方ATS |
 | Airwallex空中云汇 | [Associate GTM Partnerships Manager](https://careers.airwallex.com/job/eb5e2e34-538f-4cad-a1b8-82c260c2ff6f/associate-gtm-partnerships-manager/) | 香港 | 运营策略 | 50 | 官方职位页可访问；非明确校招 |
 | Airwallex空中云汇 | [Transaction Monitoring Senior Analyst](https://careers.airwallex.com/job/974fc2b2-a016-443a-a6f0-d351fae48cc7/transaction-monitoring-senior-analyst/) | 上海 | 合规/AML | 45 | 官方职位页可访问；高级岗，不按应届岗推荐 |
+| Checkout.com | [Early Careers #NextGen Your future starts here. Learn, grow and make an impact from day one.](https://www.checkout.com/early-careers) | 待识别 | 其他 | 45 | 官方页面待详情核验 |
 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid - New York, NY | 数据分析 | 45 | 官方ATS |
-| Coinbase | [AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
-| Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471) | 待识别 | 数据分析 | 45 | 官方页面待详情核验 |
-| Coinbase | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
 | Coinbase | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) | Hybrid - San Francisco, CA | 产品经理/AI/Agent | 45 | 官方ATS |
 | Coinbase | [Chief of Staff, CTO](https://www.coinbase.com/careers/positions/8393768?gh_jid=8393768) | Remote - USA | AI/Agent | 45 | 官方ATS |
 | Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8346064?gh_jid=8346064) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
 | Coinbase | [Customer Support Specialist ll](https://www.coinbase.com/careers/positions/8334387?gh_jid=8334387) | Manila, Philippines | AI/Agent | 45 | 官方ATS |
 | Coinbase | [Enterprise Engineer](https://www.coinbase.com/careers/positions/8265721?gh_jid=8265721) | Remote - USA | AI/Agent | 45 | 官方ATS |
-| Coinbase | [Group Product Manager, AI Foundations](https://www.coinbase.com/careers/positions/8351165) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Compliance Automation](https://www.coinbase.com/careers/positions/7701642) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Core Infrastructure & Reliability](https://www.coinbase.com/careers/positions/7997785) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Customer Engagement & Experience](https://www.coinbase.com/careers/positions/8247881) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Developer Infrastructure](https://www.coinbase.com/careers/positions/8017607) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Group Product Manager, Money Movement](https://www.coinbase.com/careers/positions/8234060) | 待识别 | 产品经理 | 45 | 官方页面待详情核验 |
-| Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238) | 待识别 | 数据分析 | 45 | 官方页面待详情核验 |
 | Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid - New York, NY | 数据分析 | 45 | 官方ATS |
-| Coinbase | [Machine Learning Engineer](https://www.coinbase.com/careers/positions/7985187) | 待识别 | AI/Agent | 45 | 官方页面待详情核验 |
+| Coinbase | [Machine Learning Engineer Intern](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) | Hybrid - San Francisco, CA | AI/Agent | 45 | 官方ATS |
+| Coinbase | [Machine Learning Engineer, CX Intelligence](https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260) | Remote - Brazil | AI/Agent | 45 | 官方ATS |
+| Coinbase | [Prime Financing Trading Analyst](https://www.coinbase.com/careers/positions/8351568?gh_jid=8351568) | Remote - USA | 数据分析 | 45 | 官方ATS |
+| Coinbase | [Product Security Engineer, Offensive Security](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) | Remote - USA | AI/Agent | 45 | 官方ATS |
+| Coinbase | [Security Engineer, Corporate Security](https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444) | Remote - USA | AI/Agent | 45 | 官方ATS |
+| Coinbase | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) | Hybrid - San Francisco, CA | 产品经理 | 45 | 官方ATS |
 
 ## 新发现公司（待纳入公司池）
 | 公司 | 触发岗位/公告 | 地点 | 来源 | 核验动作 |
@@ -139,8 +122,8 @@
 ## 数据源健康
 | 数据源 | 状态 | 抓取数 | 详情 |
 |---|---|---:|---|
-| 公司池官方招聘页轮询 | partial | 416 | Scanned 21 official pages: 9 ok, 6 empty/partial, 6 failed; rotation bucket 4/7 |
-| Airwallex官方职位 | ok | 4 | HTTP 200; extracted 4 candidate links |
+| 公司池官方招聘页轮询 | partial | 132 | Scanned 21 official pages: 8 ok, 5 empty/partial, 8 failed; rotation bucket 5/7 |
+| Airwallex官方职位 | ok | 7 | HTTP 200; extracted 7 candidate links |
 | 上海国资委国企招聘 | ok | 15 | HTTP 200; extracted 15 candidate links |
 | 中国银联招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='career.unionpay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='career.unionpay.com', port=443): Failed to resolve 'career.unionpay.com' ([Errno -2] Name or service not known)")) |
 | 上海农商银行招聘官网 | partial | 0 | HTTP 200; extracted 0 candidate links |
@@ -148,7 +131,7 @@
 | PayerMax招聘官网 | ok | 1 | HTTP 200; extracted 1 candidate links |
 | SUNRATE招聘官网 | ok | 3 | HTTP 200; extracted 3 candidate links |
 | ZA Bank招聘官网 | error | 0 | ConnectionError: HTTPSConnectionPool(host='careers.za.group', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='careers.za.group', port=443): Failed to resolve 'careers.za.group' ([Errno -2] Name or service not known)")) |
-| Coinbase官方ATS | ok | 254 | Greenhouse board=coinbase |
+| Coinbase官方ATS | ok | 253 | Greenhouse board=coinbase |
 | 公共Web搜索-官网与提前批 | blocked | 0 | DDGSException: No results found. |
 | 实习僧Skill本地导出 | blocked | 0 | Waiting for local export: data/external/shixiseng_jobs.csv |
 
